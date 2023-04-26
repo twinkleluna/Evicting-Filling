@@ -1,0 +1,399 @@
+[2022-03-07 09:31:18] 49.233.16.*:8333: 22 empty slots
+[2022-03-07 09:32:18] 49.233.16.*:8333: 21 slots, lost: 1
+[2022-03-07 09:33:18] 49.233.16.*:8333: 20 slots, lost: 1
+[2022-03-07 09:34:18] 49.233.16.*:8333: 20 slots, lost: 0
+[2022-03-07 09:35:18] 49.233.16.*:8333: 20 slots, lost: 0
+[2022-03-07 09:36:18] 49.233.16.*:8333: 19 slots, lost: 1
+[2022-03-07 09:37:18] 49.233.16.*:8333: 19 slots, lost: 0
+[2022-03-07 09:38:18] 49.233.16.*:8333: 19 slots, lost: 0
+[2022-03-07 09:38:57] 101.43.219.*:8333: 56 empty slots
+[2022-03-07 09:39:57] 101.43.219.*:8333: 56 slots, lost: 0
+[2022-03-07 09:40:57] 101.43.219.*:8333: 56 slots, lost: 0
+[2022-03-07 09:41:57] 101.43.219.*:8333: 56 slots, lost: 0
+[2022-03-07 09:42:57] 101.43.219.*:8333: 56 slots, lost: 0
+[2022-03-07 09:43:57] 101.43.219.*:8333: 56 slots, lost: 0
+[2022-03-07 09:44:57] 101.43.219.*:8333: 56 slots, lost: 0
+[2022-03-07 09:45:57] 101.43.219.*:8333: 56 slots, lost: 0
+[2022-03-07 09:46:35] 101.33.80.*:8333: 108 empty slots
+[2022-03-07 09:47:35] 101.33.80.*:8333: 108 slots, lost: 0
+[2022-03-07 09:48:35] 101.33.80.*:8333: 108 slots, lost: 0
+[2022-03-07 09:49:35] 101.33.80.*:8333: 107 slots, lost: 1
+[2022-03-07 09:50:35] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 09:51:35] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 09:52:36] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 09:53:36] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 09:54:03] 43.132.198.*:8333: 19 empty slots
+[2022-03-07 09:55:03] 43.132.198.*:8333: 18 slots, lost: 1
+[2022-03-07 09:56:03] 43.132.198.*:8333: 18 slots, lost: 0
+[2022-03-07 09:57:03] 43.132.198.*:8333: 18 slots, lost: 0
+[2022-03-07 09:58:03] 43.132.198.*:8333: 18 slots, lost: 0
+[2022-03-07 09:59:03] 43.132.198.*:8333: 18 slots, lost: 0
+[2022-03-07 10:00:03] 43.132.198.*:8333: 18 slots, lost: 0
+[2022-03-07 10:01:03] 43.132.198.*:8333: 17 slots, lost: 1
+[2022-03-07 10:03:03] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 11 empty slots
+[2022-03-07 10:04:03] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 11 slots, lost: 0
+[2022-03-07 10:05:03] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 11 slots, lost: 0
+[2022-03-07 10:06:03] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 11 slots, lost: 0
+[2022-03-07 10:07:03] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 11 slots, lost: 0
+[2022-03-07 10:08:03] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 11 slots, lost: 0
+[2022-03-07 10:09:03] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 11 slots, lost: 0
+[2022-03-07 10:10:03] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 11 slots, lost: 0
+[2022-03-07 10:11:59] 168.119.186.*:8333: 43 empty slots
+[2022-03-07 10:12:59] 168.119.186.*:8333: 43 slots, lost: 0
+[2022-03-07 10:13:59] 168.119.186.*:8333: 43 slots, lost: 0
+[2022-03-07 10:14:59] 168.119.186.*:8333: 43 slots, lost: 0
+[2022-03-07 10:15:59] 168.119.186.*:8333: 43 slots, lost: 0
+[2022-03-07 10:16:59] 168.119.186.*:8333: 42 slots, lost: 1
+[2022-03-07 10:17:59] 168.119.186.*:8333: 42 slots, lost: 0
+[2022-03-07 10:18:59] 168.119.186.*:8333: 42 slots, lost: 0
+[2022-03-07 10:20:58] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 12 empty slots
+[2022-03-07 10:21:58] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 12 slots, lost: 0
+[2022-03-07 10:22:58] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 12 slots, lost: 0
+[2022-03-07 10:23:58] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 12 slots, lost: 0
+[2022-03-07 10:24:58] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 12 slots, lost: 0
+[2022-03-07 10:25:58] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 12 slots, lost: 0
+[2022-03-07 10:26:58] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 12 slots, lost: 0
+[2022-03-07 10:27:58] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 12 slots, lost: 0
+[2022-03-07 10:29:46] 195.123.239.*:8333: 41 empty slots
+[2022-03-07 10:30:46] 195.123.239.*:8333: 41 slots, lost: 0
+[2022-03-07 10:31:46] 195.123.239.*:8333: 41 slots, lost: 0
+[2022-03-07 10:32:46] 195.123.239.*:8333: 41 slots, lost: 0
+[2022-03-07 10:33:46] 195.123.239.*:8333: 41 slots, lost: 0
+[2022-03-07 10:34:46] 195.123.239.*:8333: 41 slots, lost: 0
+[2022-03-07 10:35:47] 195.123.239.*:8333: 41 slots, lost: 0
+[2022-03-07 10:36:47] 195.123.239.*:8333: 41 slots, lost: 0
+[2022-03-07 10:37:27] 77.0.121.*:8333: 0 empty slots
+[2022-03-07 10:37:47] 193.32.127.*:60969: 115 empty slots
+[2022-03-07 10:38:47] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 10:39:47] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 10:40:47] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 10:41:47] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 10:42:47] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 10:43:47] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 10:44:47] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 10:46:48] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 empty slots
+[2022-03-07 10:47:48] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 slots, lost: 0
+[2022-03-07 10:48:48] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 slots, lost: 0
+[2022-03-07 10:49:48] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 slots, lost: 0
+[2022-03-07 10:50:48] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 slots, lost: 0
+[2022-03-07 10:51:48] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 slots, lost: 0
+[2022-03-07 10:52:48] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 slots, lost: 0
+[2022-03-07 10:53:48] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 slots, lost: 0
+[2022-03-07 10:54:36] 173.205.92.*:54805: 0 empty slots
+[2022-03-07 10:54:57] 46.95.151.*:8333: 0 empty slots
+[2022-03-07 10:55:17] 217.138.199.*:56805: 65 empty slots
+[2022-03-07 10:56:17] 217.138.199.*:56805: 63 slots, lost: 2
+[2022-03-07 10:57:17] 217.138.199.*:56805: 63 slots, lost: 0
+[2022-03-07 10:58:17] 217.138.199.*:56805: 63 slots, lost: 0
+[2022-03-07 10:59:17] 217.138.199.*:56805: 63 slots, lost: 0
+[2022-03-07 11:00:17] 217.138.199.*:56805: 63 slots, lost: 0
+[2022-03-07 11:01:17] 217.138.199.*:56805: 61 slots, lost: 2
+[2022-03-07 11:02:17] 217.138.199.*:56805: 61 slots, lost: 0
+[2022-03-07 11:02:36] 耗时：5498s
+[2022-03-07 11:02:57] 49.233.16.*:8333: 30 empty slots
+[2022-03-07 11:03:57] 49.233.16.*:8333: 27 slots, lost: 3
+[2022-03-07 11:04:57] 49.233.16.*:8333: 26 slots, lost: 1
+[2022-03-07 11:05:57] 49.233.16.*:8333: 26 slots, lost: 0
+[2022-03-07 11:06:57] 49.233.16.*:8333: 26 slots, lost: 0
+[2022-03-07 11:07:57] 49.233.16.*:8333: 24 slots, lost: 2
+[2022-03-07 11:08:57] 49.233.16.*:8333: 24 slots, lost: 0
+[2022-03-07 11:09:57] 49.233.16.*:8333: 23 slots, lost: 1
+[2022-03-07 11:10:26] 101.43.219.*:8333: 57 empty slots
+[2022-03-07 11:11:26] 101.43.219.*:8333: 55 slots, lost: 2
+[2022-03-07 11:12:26] 101.43.219.*:8333: 55 slots, lost: 0
+[2022-03-07 11:13:26] 101.43.219.*:8333: 54 slots, lost: 1
+[2022-03-07 11:14:26] 101.43.219.*:8333: 54 slots, lost: 0
+[2022-03-07 11:15:26] 101.43.219.*:8333: 54 slots, lost: 0
+[2022-03-07 11:16:26] 101.43.219.*:8333: 54 slots, lost: 0
+[2022-03-07 11:17:26] 101.43.219.*:8333: 54 slots, lost: 0
+[2022-03-07 11:18:02] 101.33.80.*:8333: 107 empty slots
+[2022-03-07 11:19:03] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 11:20:03] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 11:21:03] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 11:22:03] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 11:23:03] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 11:24:03] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 11:25:03] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 11:25:39] 43.132.198.*:8333: 20 empty slots
+[2022-03-07 11:26:39] 43.132.198.*:8333: 20 slots, lost: 0
+[2022-03-07 11:27:39] 43.132.198.*:8333: 20 slots, lost: 0
+[2022-03-07 11:28:39] 43.132.198.*:8333: 18 slots, lost: 2
+[2022-03-07 11:29:39] 43.132.198.*:8333: 18 slots, lost: 0
+[2022-03-07 11:30:39] 43.132.198.*:8333: 18 slots, lost: 0
+[2022-03-07 11:31:39] 43.132.198.*:8333: 18 slots, lost: 0
+[2022-03-07 11:32:39] 43.132.198.*:8333: 18 slots, lost: 0
+[2022-03-07 11:34:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 12 empty slots
+[2022-03-07 11:35:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 12 slots, lost: 0
+[2022-03-07 11:36:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 12 slots, lost: 0
+[2022-03-07 11:37:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 12 slots, lost: 0
+[2022-03-07 11:38:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 12 slots, lost: 0
+[2022-03-07 11:39:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 12 slots, lost: 0
+[2022-03-07 11:40:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 12 slots, lost: 0
+[2022-03-07 11:41:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 12 slots, lost: 0
+[2022-03-07 11:43:21] 168.119.186.*:8333: 36 empty slots
+[2022-03-07 11:44:22] 168.119.186.*:8333: 36 slots, lost: 0
+[2022-03-07 11:45:22] 168.119.186.*:8333: 36 slots, lost: 0
+[2022-03-07 11:46:22] 168.119.186.*:8333: 36 slots, lost: 0
+[2022-03-07 11:47:22] 168.119.186.*:8333: 36 slots, lost: 0
+[2022-03-07 11:48:22] 168.119.186.*:8333: 36 slots, lost: 0
+[2022-03-07 11:49:22] 168.119.186.*:8333: 36 slots, lost: 0
+[2022-03-07 11:50:22] 168.119.186.*:8333: 36 slots, lost: 0
+[2022-03-07 11:52:20] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 9 empty slots
+[2022-03-07 11:53:20] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 9 slots, lost: 0
+[2022-03-07 11:54:20] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 9 slots, lost: 0
+[2022-03-07 11:55:20] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 9 slots, lost: 0
+[2022-03-07 11:56:20] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 9 slots, lost: 0
+[2022-03-07 11:57:20] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 9 slots, lost: 0
+[2022-03-07 11:58:20] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 9 slots, lost: 0
+[2022-03-07 11:59:20] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 9 slots, lost: 0
+[2022-03-07 12:01:06] 195.123.239.*:8333: 51 empty slots
+[2022-03-07 12:02:06] 195.123.239.*:8333: 51 slots, lost: 0
+[2022-03-07 12:03:06] 195.123.239.*:8333: 51 slots, lost: 0
+[2022-03-07 12:04:06] 195.123.239.*:8333: 51 slots, lost: 0
+[2022-03-07 12:05:06] 195.123.239.*:8333: 51 slots, lost: 0
+[2022-03-07 12:06:06] 195.123.239.*:8333: 51 slots, lost: 0
+[2022-03-07 12:07:06] 195.123.239.*:8333: 51 slots, lost: 0
+[2022-03-07 12:08:06] 195.123.239.*:8333: 51 slots, lost: 0
+[2022-03-07 12:08:46] 77.0.121.*:8333: 0 empty slots
+[2022-03-07 12:09:06] 193.32.127.*:60969: 115 empty slots
+[2022-03-07 12:10:06] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 12:11:06] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 12:12:06] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 12:13:06] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 12:14:07] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 12:15:07] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 12:16:07] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 12:18:07] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 10 empty slots
+[2022-03-07 12:19:07] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 10 slots, lost: 0
+[2022-03-07 12:20:07] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 10 slots, lost: 0
+[2022-03-07 12:21:07] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 10 slots, lost: 0
+[2022-03-07 12:22:07] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 10 slots, lost: 0
+[2022-03-07 12:23:07] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 10 slots, lost: 0
+[2022-03-07 12:24:07] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 10 slots, lost: 0
+[2022-03-07 12:25:07] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 10 slots, lost: 0
+[2022-03-07 12:26:52] 173.205.92.*:54805: 0 empty slots
+[2022-03-07 12:27:12] 46.95.151.*:8333: 0 empty slots
+[2022-03-07 12:27:32] 217.138.199.*:56805: 64 empty slots
+[2022-03-07 12:28:32] 217.138.199.*:56805: 61 slots, lost: 3
+[2022-03-07 12:29:33] 217.138.199.*:56805: 59 slots, lost: 2
+[2022-03-07 12:30:33] 217.138.199.*:56805: 59 slots, lost: 0
+[2022-03-07 12:31:33] 217.138.199.*:56805: 59 slots, lost: 0
+[2022-03-07 12:32:33] 217.138.199.*:56805: 59 slots, lost: 0
+[2022-03-07 12:33:33] 217.138.199.*:56805: 59 slots, lost: 0
+[2022-03-07 12:34:33] 217.138.199.*:56805: 59 slots, lost: 0
+[2022-03-07 12:34:53] 耗时：5536s
+[2022-03-07 12:35:13] 49.233.16.*:8333: 25 empty slots
+[2022-03-07 12:36:13] 49.233.16.*:8333: 21 slots, lost: 4
+[2022-03-07 12:37:13] 49.233.16.*:8333: 21 slots, lost: 0
+[2022-03-07 12:38:13] 49.233.16.*:8333: 21 slots, lost: 0
+[2022-03-07 12:39:13] 49.233.16.*:8333: 21 slots, lost: 0
+[2022-03-07 12:40:13] 49.233.16.*:8333: 21 slots, lost: 0
+[2022-03-07 12:41:13] 49.233.16.*:8333: 21 slots, lost: 0
+[2022-03-07 12:42:13] 49.233.16.*:8333: 21 slots, lost: 0
+[2022-03-07 12:42:50] 101.43.219.*:8333: 51 empty slots
+[2022-03-07 12:43:50] 101.43.219.*:8333: 51 slots, lost: 0
+[2022-03-07 12:44:50] 101.43.219.*:8333: 50 slots, lost: 1
+[2022-03-07 12:45:50] 101.43.219.*:8333: 50 slots, lost: 0
+[2022-03-07 12:46:50] 101.43.219.*:8333: 50 slots, lost: 0
+[2022-03-07 12:47:50] 101.43.219.*:8333: 50 slots, lost: 0
+[2022-03-07 12:48:50] 101.43.219.*:8333: 48 slots, lost: 2
+[2022-03-07 12:49:50] 101.43.219.*:8333: 48 slots, lost: 0
+[2022-03-07 12:50:30] 101.33.80.*:8333: 110 empty slots
+[2022-03-07 12:51:30] 101.33.80.*:8333: 109 slots, lost: 1
+[2022-03-07 12:52:30] 101.33.80.*:8333: 107 slots, lost: 2
+[2022-03-07 12:53:30] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 12:54:30] 101.33.80.*:8333: 106 slots, lost: 1
+[2022-03-07 12:55:31] 101.33.80.*:8333: 106 slots, lost: 0
+[2022-03-07 12:56:31] 101.33.80.*:8333: 106 slots, lost: 0
+[2022-03-07 12:57:31] 101.33.80.*:8333: 106 slots, lost: 0
+[2022-03-07 12:57:57] 43.132.198.*:8333: 16 empty slots
+[2022-03-07 12:58:57] 43.132.198.*:8333: 12 slots, lost: 4
+[2022-03-07 12:59:57] 43.132.198.*:8333: 12 slots, lost: 0
+[2022-03-07 13:00:57] 43.132.198.*:8333: 12 slots, lost: 0
+[2022-03-07 13:01:57] 43.132.198.*:8333: 12 slots, lost: 0
+[2022-03-07 13:02:58] 43.132.198.*:8333: 12 slots, lost: 0
+[2022-03-07 13:03:58] 43.132.198.*:8333: 12 slots, lost: 0
+[2022-03-07 13:04:58] 43.132.198.*:8333: 12 slots, lost: 0
+[2022-03-07 13:06:56] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 5 empty slots
+[2022-03-07 13:07:56] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 5 slots, lost: 0
+[2022-03-07 13:08:56] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 5 slots, lost: 0
+[2022-03-07 13:09:56] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 5 slots, lost: 0
+[2022-03-07 13:10:56] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 5 slots, lost: 0
+[2022-03-07 13:11:56] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 5 slots, lost: 0
+[2022-03-07 13:12:56] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 5 slots, lost: 0
+[2022-03-07 13:13:56] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 5 slots, lost: 0
+[2022-03-07 13:15:44] 168.119.186.*:8333: 41 empty slots
+[2022-03-07 13:16:44] 168.119.186.*:8333: 41 slots, lost: 0
+[2022-03-07 13:17:45] 168.119.186.*:8333: 41 slots, lost: 0
+[2022-03-07 13:18:45] 168.119.186.*:8333: 41 slots, lost: 0
+[2022-03-07 13:19:45] 168.119.186.*:8333: 41 slots, lost: 0
+[2022-03-07 13:20:45] 168.119.186.*:8333: 41 slots, lost: 0
+[2022-03-07 13:21:45] 168.119.186.*:8333: 41 slots, lost: 0
+[2022-03-07 13:22:45] 168.119.186.*:8333: 41 slots, lost: 0
+[2022-03-07 13:24:45] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 4 empty slots
+[2022-03-07 13:25:56] 49.233.16.*:8333: 20 empty slots
+[2022-03-07 13:26:56] 49.233.16.*:8333: 19 slots, lost: 1
+[2022-03-07 13:27:56] 49.233.16.*:8333: 18 slots, lost: 1
+[2022-03-07 13:28:56] 49.233.16.*:8333: 15 slots, lost: 3
+[2022-03-07 13:29:56] 49.233.16.*:8333: 15 slots, lost: 0
+[2022-03-07 13:30:56] 49.233.16.*:8333: 15 slots, lost: 0
+[2022-03-07 13:31:56] 49.233.16.*:8333: 15 slots, lost: 0
+[2022-03-07 13:32:56] 49.233.16.*:8333: 15 slots, lost: 0
+[2022-03-07 13:33:25] 101.43.219.*:8333: 53 empty slots
+[2022-03-07 13:34:25] 101.43.219.*:8333: 52 slots, lost: 1
+[2022-03-07 13:35:25] 101.43.219.*:8333: 52 slots, lost: 0
+[2022-03-07 13:36:25] 101.43.219.*:8333: 52 slots, lost: 0
+[2022-03-07 13:37:25] 101.43.219.*:8333: 52 slots, lost: 0
+[2022-03-07 13:38:25] 101.43.219.*:8333: 52 slots, lost: 0
+[2022-03-07 13:39:25] 101.43.219.*:8333: 52 slots, lost: 0
+[2022-03-07 13:40:25] 101.43.219.*:8333: 52 slots, lost: 0
+[2022-03-07 13:41:05] 101.33.80.*:8333: 108 empty slots
+[2022-03-07 13:42:05] 101.33.80.*:8333: 108 slots, lost: 0
+[2022-03-07 13:43:05] 101.33.80.*:8333: 108 slots, lost: 0
+[2022-03-07 13:44:05] 101.33.80.*:8333: 108 slots, lost: 0
+[2022-03-07 13:45:05] 101.33.80.*:8333: 108 slots, lost: 0
+[2022-03-07 13:46:05] 101.33.80.*:8333: 108 slots, lost: 0
+[2022-03-07 13:47:05] 101.33.80.*:8333: 108 slots, lost: 0
+[2022-03-07 13:48:05] 101.33.80.*:8333: 108 slots, lost: 0
+[2022-03-07 13:48:43] 43.132.198.*:8333: 17 empty slots
+[2022-03-07 13:49:43] 43.132.198.*:8333: 15 slots, lost: 2
+[2022-03-07 13:50:43] 43.132.198.*:8333: 15 slots, lost: 0
+[2022-03-07 13:51:43] 43.132.198.*:8333: 14 slots, lost: 1
+[2022-03-07 13:52:43] 43.132.198.*:8333: 14 slots, lost: 0
+[2022-03-07 13:53:43] 43.132.198.*:8333: 12 slots, lost: 2
+[2022-03-07 13:54:43] 43.132.198.*:8333: 12 slots, lost: 0
+[2022-03-07 13:55:43] 43.132.198.*:8333: 12 slots, lost: 0
+[2022-03-07 13:57:27] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 9 empty slots
+[2022-03-07 13:58:27] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 9 slots, lost: 0
+[2022-03-07 13:59:27] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 9 slots, lost: 0
+[2022-03-07 14:00:27] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 9 slots, lost: 0
+[2022-03-07 14:01:27] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 9 slots, lost: 0
+[2022-03-07 14:02:27] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 9 slots, lost: 0
+[2022-03-07 14:03:27] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 9 slots, lost: 0
+[2022-03-07 14:04:27] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 9 slots, lost: 0
+[2022-03-07 14:06:13] 168.119.186.*:8333: 42 empty slots
+[2022-03-07 14:07:13] 168.119.186.*:8333: 42 slots, lost: 0
+[2022-03-07 14:08:13] 168.119.186.*:8333: 42 slots, lost: 0
+[2022-03-07 14:09:13] 168.119.186.*:8333: 42 slots, lost: 0
+[2022-03-07 14:10:13] 168.119.186.*:8333: 42 slots, lost: 0
+[2022-03-07 14:11:13] 168.119.186.*:8333: 42 slots, lost: 0
+[2022-03-07 14:12:13] 168.119.186.*:8333: 42 slots, lost: 0
+[2022-03-07 14:13:13] 168.119.186.*:8333: 42 slots, lost: 0
+[2022-03-07 14:15:13] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 6 empty slots
+[2022-03-07 14:16:13] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 6 slots, lost: 0
+[2022-03-07 14:17:13] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 6 slots, lost: 0
+[2022-03-07 14:18:13] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 6 slots, lost: 0
+[2022-03-07 14:19:13] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 6 slots, lost: 0
+[2022-03-07 14:20:13] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 6 slots, lost: 0
+[2022-03-07 14:21:13] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 6 slots, lost: 0
+[2022-03-07 14:22:13] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 6 slots, lost: 0
+[2022-03-07 14:23:58] 195.123.239.*:8333: 55 empty slots
+[2022-03-07 14:25:18] 77.0.121.*:8333: 0 empty slots
+[2022-03-07 14:25:38] 193.32.127.*:60969: 115 empty slots
+[2022-03-07 14:26:38] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 14:27:38] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 14:28:38] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 14:29:38] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 14:30:38] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 14:31:38] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 14:32:38] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 14:34:38] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 empty slots
+[2022-03-07 14:35:38] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 slots, lost: 0
+[2022-03-07 14:36:38] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 slots, lost: 0
+[2022-03-07 14:37:38] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 slots, lost: 0
+[2022-03-07 14:38:38] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 slots, lost: 0
+[2022-03-07 14:39:38] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 slots, lost: 0
+[2022-03-07 14:40:38] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 slots, lost: 0
+[2022-03-07 14:41:38] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 5 slots, lost: 0
+[2022-03-07 14:43:23] 173.205.92.*:54805: 0 empty slots
+[2022-03-07 14:43:44] 46.95.151.*:8333: 0 empty slots
+[2022-03-07 14:44:04] 217.138.199.*:56805: 65 empty slots
+[2022-03-07 14:45:04] 217.138.199.*:56805: 65 slots, lost: 0
+[2022-03-07 14:46:04] 217.138.199.*:56805: 65 slots, lost: 0
+[2022-03-07 14:47:04] 217.138.199.*:56805: 65 slots, lost: 0
+[2022-03-07 14:48:04] 217.138.199.*:56805: 65 slots, lost: 0
+[2022-03-07 14:49:04] 217.138.199.*:56805: 65 slots, lost: 0
+[2022-03-07 14:50:04] 217.138.199.*:56805: 65 slots, lost: 0
+[2022-03-07 14:51:04] 217.138.199.*:56805: 65 slots, lost: 0
+[2022-03-07 14:51:17] 耗时：5141s
+[2022-03-07 14:51:38] 49.233.16.*:8333: 67 empty slots
+[2022-03-07 14:52:38] 49.233.16.*:8333: 63 slots, lost: 4
+[2022-03-07 14:53:38] 49.233.16.*:8333: 63 slots, lost: 0
+[2022-03-07 14:54:38] 49.233.16.*:8333: 63 slots, lost: 0
+[2022-03-07 14:55:38] 49.233.16.*:8333: 63 slots, lost: 0
+[2022-03-07 14:56:38] 49.233.16.*:8333: 62 slots, lost: 1
+[2022-03-07 14:57:38] 49.233.16.*:8333: 62 slots, lost: 0
+[2022-03-07 14:58:38] 49.233.16.*:8333: 62 slots, lost: 0
+[2022-03-07 14:59:17] 101.43.219.*:8333: 83 empty slots
+[2022-03-07 15:00:17] 101.43.219.*:8333: 82 slots, lost: 1
+[2022-03-07 15:01:18] 101.43.219.*:8333: 80 slots, lost: 2
+[2022-03-07 15:02:18] 101.43.219.*:8333: 80 slots, lost: 0
+[2022-03-07 15:03:18] 101.43.219.*:8333: 80 slots, lost: 0
+[2022-03-07 15:04:18] 101.43.219.*:8333: 80 slots, lost: 0
+[2022-03-07 15:05:18] 101.43.219.*:8333: 80 slots, lost: 0
+[2022-03-07 15:06:18] 101.43.219.*:8333: 80 slots, lost: 0
+[2022-03-07 15:06:57] 101.33.80.*:8333: 109 empty slots
+[2022-03-07 15:07:57] 101.33.80.*:8333: 107 slots, lost: 2
+[2022-03-07 15:08:57] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 15:09:57] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 15:10:57] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 15:11:57] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 15:12:57] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 15:13:57] 101.33.80.*:8333: 107 slots, lost: 0
+[2022-03-07 15:14:36] 43.132.198.*:8333: 52 empty slots
+[2022-03-07 15:15:36] 43.132.198.*:8333: 52 slots, lost: 0
+[2022-03-07 15:16:36] 43.132.198.*:8333: 52 slots, lost: 0
+[2022-03-07 15:17:36] 43.132.198.*:8333: 52 slots, lost: 0
+[2022-03-07 15:18:36] 43.132.198.*:8333: 52 slots, lost: 0
+[2022-03-07 15:19:36] 43.132.198.*:8333: 52 slots, lost: 0
+[2022-03-07 15:20:36] 43.132.198.*:8333: 52 slots, lost: 0
+[2022-03-07 15:21:36] 43.132.198.*:8333: 52 slots, lost: 0
+[2022-03-07 15:23:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 8 empty slots
+[2022-03-07 15:24:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 8 slots, lost: 0
+[2022-03-07 15:25:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 8 slots, lost: 0
+[2022-03-07 15:26:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 8 slots, lost: 0
+[2022-03-07 15:27:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 8 slots, lost: 0
+[2022-03-07 15:28:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 8 slots, lost: 0
+[2022-03-07 15:29:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 8 slots, lost: 0
+[2022-03-07 15:30:35] iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333: 8 slots, lost: 0
+[2022-03-07 15:32:22] 168.119.186.*:8333: 47 empty slots
+[2022-03-07 15:33:22] 168.119.186.*:8333: 47 slots, lost: 0
+[2022-03-07 15:34:22] 168.119.186.*:8333: 47 slots, lost: 0
+[2022-03-07 15:35:22] 168.119.186.*:8333: 46 slots, lost: 1
+[2022-03-07 15:36:22] 168.119.186.*:8333: 46 slots, lost: 0
+[2022-03-07 15:37:22] 168.119.186.*:8333: 46 slots, lost: 0
+[2022-03-07 15:38:22] 168.119.186.*:8333: 46 slots, lost: 0
+[2022-03-07 15:39:22] 168.119.186.*:8333: 46 slots, lost: 0
+[2022-03-07 15:41:17] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 8 empty slots
+[2022-03-07 15:42:17] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 8 slots, lost: 0
+[2022-03-07 15:43:17] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 8 slots, lost: 0
+[2022-03-07 15:44:17] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 8 slots, lost: 0
+[2022-03-07 15:45:17] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 8 slots, lost: 0
+[2022-03-07 15:46:18] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 8 slots, lost: 0
+[2022-03-07 15:47:18] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 8 slots, lost: 0
+[2022-03-07 15:48:18] pcxlvkgabsowmrx54b5bgqglershgfchr6xavrhbfngridplzhf2pwqd.onion:8333: 8 slots, lost: 0
+[2022-03-07 15:50:03] 195.123.239.*:8333: 48 empty slots
+[2022-03-07 15:51:03] 195.123.239.*:8333: 48 slots, lost: 0
+[2022-03-07 15:52:03] 195.123.239.*:8333: 48 slots, lost: 0
+[2022-03-07 15:53:03] 195.123.239.*:8333: 48 slots, lost: 0
+[2022-03-07 15:54:03] 195.123.239.*:8333: 48 slots, lost: 0
+[2022-03-07 15:55:03] 195.123.239.*:8333: 48 slots, lost: 0
+[2022-03-07 15:56:03] 195.123.239.*:8333: 48 slots, lost: 0
+[2022-03-07 15:57:03] 195.123.239.*:8333: 48 slots, lost: 0
+[2022-03-07 15:57:42] 77.0.121.*:8333: 0 empty slots
+[2022-03-07 15:58:02] 193.32.127.*:60969: 115 empty slots
+[2022-03-07 15:59:02] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 16:00:03] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 16:01:03] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 16:02:03] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 16:03:03] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 16:04:03] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 16:05:03] 193.32.127.*:60969: 115 slots, lost: 0
+[2022-03-07 16:07:02] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 13 empty slots
+[2022-03-07 16:08:02] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 13 slots, lost: 0
+[2022-03-07 16:09:02] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 13 slots, lost: 0
+[2022-03-07 16:10:02] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 13 slots, lost: 0
+[2022-03-07 16:11:02] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 13 slots, lost: 0
+[2022-03-07 16:12:02] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 13 slots, lost: 0
+[2022-03-07 16:13:02] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 13 slots, lost: 0
+[2022-03-07 16:14:03] afpk3ick2scmromlamykmdzeqgjifa3jjzlfxqlcy2fyy3n3rcu463qd.onion:8333: 13 slots, lost: 0
