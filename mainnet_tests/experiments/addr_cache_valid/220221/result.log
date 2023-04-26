@@ -1,0 +1,191 @@
+-------------- this is a line -------------
+First phase, we establish 1 connections to address 91.210.24.*:8333. Then, we establish 0 connections to address 91.215.91.*:8333, and connections to address 91.210.24.*:8333 dropped to 1.
+Second phase, we establish 1 connections to address 91.215.91.*:8333.
+91.210.24.*:8333 91.215.91.*:8333 True
+耗时：65s
+First phase, we establish 28 connections to address jcqwyxqh6egoehxmhdifur74sk3pcuvgrqdt6egs5iq7wqqqi7gb5fid.onion:8333. Then, we establish 1 connections to address kyfeq4fvmglhem6ajzd7vnwsuyyrfzhrdibwc4dntomg4ivi2l5w3gqd.onion:8333, and connections to address jcqwyxqh6egoehxmhdifur74sk3pcuvgrqdt6egs5iq7wqqqi7gb5fid.onion:8333 dropped to 28.
+Second phase, we establish 28 connections to address kyfeq4fvmglhem6ajzd7vnwsuyyrfzhrdibwc4dntomg4ivi2l5w3gqd.onion:8333.
+jcqwyxqh6egoehxmhdifur74sk3pcuvgrqdt6egs5iq7wqqqi7gb5fid.onion:8333 kyfeq4fvmglhem6ajzd7vnwsuyyrfzhrdibwc4dntomg4ivi2l5w3gqd.onion:8333 True
+耗时：370s
+First phase, we establish 94 connections to address [2001:4dd0:3564:0:*]:8333. Then, we establish 1 connections to address [2001:4dd0:3564:0:*]:8333, and connections to address [2001:4dd0:3564:0:*]:8333 dropped to 94.
+Second phase, we establish 95 connections to address [2001:4dd0:3564:0:*]:8333.
+[2001:4dd0:3564:0:*]:8333 [2001:4dd0:3564:0:*]:8333 True
+耗时：83s
+First phase, we establish 1 connections to address 108.198.146.*:8333. Then, we establish 0 connections to address 173.164.210.*:8333, and connections to address 108.198.146.*:8333 dropped to 1.
+Second phase, we establish 2 connections to address 173.164.210.*:8333.
+108.198.146.*:8333 173.164.210.*:8333 False
+耗时：71s
+First phase, we establish 0 connections to address 109.78.26.*:8333. Then, we establish 76 connections to address 78.152.227.*:8333, and connections to address 109.78.26.*:8333 dropped to 0.
+109.78.26.*:8333 78.152.227.*:8333 False
+耗时：42s
+First phase, we establish 107 connections to address 101.43.219.*:8334. Then, we establish 1 connections to address 101.43.219.*:8333, and connections to address 101.43.219.*:8334 dropped to 106.
+Second phase, we establish 105 connections to address 101.43.219.*:8333.
+101.43.219.*:8334 101.43.219.*:8333 True
+耗时：65s
+First phase, we establish 9 connections to address 81.88.221.*:8333. Then, we establish 0 connections to address 91.77.168.*:8333, and connections to address 81.88.221.*:8333 dropped to 9.
+Second phase, we establish 5 connections to address 91.77.168.*:8333.
+81.88.221.*:8333 91.77.168.*:8333 False
+耗时：75s
+First phase, we establish 11 connections to address 81.88.221.*:8333. Then, we establish 0 connections to address 77.37.212.*:8333, and connections to address 81.88.221.*:8333 dropped to 11.
+Second phase, we establish 11 connections to address 77.37.212.*:8333.
+81.88.221.*:8333 77.37.212.*:8333 True
+耗时：65s
+First phase, we establish 9 connections to address 91.77.168.*:8333. Then, we establish 0 connections to address 77.37.212.*:8333, and connections to address 91.77.168.*:8333 dropped to 9.
+Second phase, we establish 7 connections to address 77.37.212.*:8333.
+91.77.168.*:8333 77.37.212.*:8333 False
+耗时：65s
+First phase, we establish 49 connections to address 173.205.92.*:54805. Then, we establish 1 connections to address 173.205.92.*:54805, and connections to address 173.205.92.*:54805 dropped to 48.
+Second phase, we establish 51 connections to address 173.205.92.*:54805.
+173.205.92.*:54805 173.205.92.*:54805 True
+耗时：65s
+First phase, we establish 3 connections to address 81.4.100.*:8333. Then, we establish 2 connections to address a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333, and connections to address 81.4.100.*:8333 dropped to 3.
+81.4.100.*:8333 a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333 False
+耗时：159s
+First phase, we establish 80 connections to address [2001:4dd0:3564:1:*]:8333. Then, we establish 3 connections to address [2001:4dd0:af0e:3564:*]:8333, and connections to address [2001:4dd0:3564:1:*]:8333 dropped to 80.
+Second phase, we establish 81 connections to address [2001:4dd0:af0e:3564:*]:8333.
+[2001:4dd0:3564:1:*]:8333 [2001:4dd0:af0e:3564:*]:8333 True
+耗时：82s
+First phase, we establish 48 connections to address 195.123.239.*:8333. Then, we establish 3 connections to address yipidja7f6bglzdbkkh6muj5hqwicow5rtv6chwfd4g2pr6lpf6vseqd.onion:8333, and connections to address 195.123.239.*:8333 dropped to 48.
+Second phase, we establish 47 connections to address yipidja7f6bglzdbkkh6muj5hqwicow5rtv6chwfd4g2pr6lpf6vseqd.onion:8333.
+195.123.239.*:8333 yipidja7f6bglzdbkkh6muj5hqwicow5rtv6chwfd4g2pr6lpf6vseqd.onion:8333 True
+耗时：274s
+First phase, we establish 46 connections to address 195.123.239.*:8333. Then, we establish 4 connections to address [2604:7c00:120:4b:*]:8333, and connections to address 195.123.239.*:8333 dropped to 46.
+Second phase, we establish 51 connections to address [2604:7c00:120:4b:*]:8333.
+195.123.239.*:8333 [2604:7c00:120:4b:*]:8333 False
+耗时：69s
+First phase, we establish 51 connections to address 195.123.239.*:8333. Then, we establish 0 connections to address 104.129.171.*:8333, and connections to address 195.123.239.*:8333 dropped to 51.
+Second phase, we establish 52 connections to address 104.129.171.*:8333.
+195.123.239.*:8333 104.129.171.*:8333 True
+耗时：79s
+First phase, we establish 52 connections to address yipidja7f6bglzdbkkh6muj5hqwicow5rtv6chwfd4g2pr6lpf6vseqd.onion:8333. Then, we establish 2 connections to address [2604:7c00:120:4b:*]:8333, and connections to address yipidja7f6bglzdbkkh6muj5hqwicow5rtv6chwfd4g2pr6lpf6vseqd.onion:8333 dropped to 52.
+Second phase, we establish 51 connections to address [2604:7c00:120:4b:*]:8333.
+yipidja7f6bglzdbkkh6muj5hqwicow5rtv6chwfd4g2pr6lpf6vseqd.onion:8333 [2604:7c00:120:4b:*]:8333 True
+耗时：166s
+First phase, we establish 52 connections to address yipidja7f6bglzdbkkh6muj5hqwicow5rtv6chwfd4g2pr6lpf6vseqd.onion:8333. Then, we establish 2 connections to address 104.129.171.*:8333, and connections to address yipidja7f6bglzdbkkh6muj5hqwicow5rtv6chwfd4g2pr6lpf6vseqd.onion:8333 dropped to 52.
+Second phase, we establish 53 connections to address 104.129.171.*:8333.
+yipidja7f6bglzdbkkh6muj5hqwicow5rtv6chwfd4g2pr6lpf6vseqd.onion:8333 104.129.171.*:8333 True
+耗时：158s
+First phase, we establish 53 connections to address [2604:7c00:120:4b:*]:8333. Then, we establish 2 connections to address 104.129.171.*:8333, and connections to address [2604:7c00:120:4b:*]:8333 dropped to 53.
+Second phase, we establish 55 connections to address 104.129.171.*:8333.
+[2604:7c00:120:4b:*]:8333 104.129.171.*:8333 True
+耗时：66s
+First phase, we establish 0 connections to address 80.138.100.*:8333. Then, we establish 81 connections to address 84.185.44.*:8333, and connections to address 80.138.100.*:8333 dropped to 0.
+80.138.100.*:8333 84.185.44.*:8333 False
+耗时：44s
+First phase, we establish 0 connections to address 60.26.121.*:8333. Then, we establish 92 connections to address 111.161.234.*:8333, and connections to address 60.26.121.*:8333 dropped to 0.
+60.26.121.*:8333 111.161.234.*:8333 False
+耗时：42s
+First phase, we establish 1 connections to address 46.227.115.*:8333. Then, we establish 0 connections to address 185.88.229.*:8333, and connections to address 46.227.115.*:8333 dropped to 1.
+Second phase, we establish 1 connections to address 185.88.229.*:8333.
+46.227.115.*:8333 185.88.229.*:8333 True
+耗时：65s
+First phase, we establish 0 connections to address 77.0.73.*:8333. Then, we establish 0 connections to address 77.1.25.*:8333, and connections to address 77.0.73.*:8333 dropped to 0.
+Second phase, we establish 0 connections to address 77.1.25.*:8333.
+77.0.73.*:8333 77.1.25.*:8333 True
+耗时：60s
+First phase, we establish 0 connections to address 94.216.6.*:8333. Then, we establish 101 connections to address 88.67.56.*:8333, and connections to address 94.216.6.*:8333 dropped to 0.
+94.216.6.*:8333 88.67.56.*:8333 False
+耗时：52s
+First phase, we establish 0 connections to address 82.149.176.*:8333. Then, we establish 97 connections to address 89.166.155.*:8333, and connections to address 82.149.176.*:8333 dropped to 0.
+82.149.176.*:8333 89.166.155.*:8333 False
+耗时：43s
+First phase, we establish 115 connections to address a27bvhina4y23jxo.onion:8333. Then, we establish 115 connections to address nkf5e6b7pl4jfd4a.onion:8333, and connections to address a27bvhina4y23jxo.onion:8333 dropped to 112.
+a27bvhina4y23jxo.onion:8333 nkf5e6b7pl4jfd4a.onion:8333 False
+耗时：264s
+First phase, we establish 23 connections to address 173.205.92.*:54805. Then, we establish 1 connections to address 173.205.92.*:54805, and connections to address 173.205.92.*:54805 dropped to 23.
+Second phase, we establish 23 connections to address 173.205.92.*:54805.
+173.205.92.*:54805 173.205.92.*:54805 True
+耗时：65s
+First phase, we establish 4 connections to address 43sybhczgtlylt72km37v2wuyevls4nt5qk6mfqilh2od57ugznk43qd.onion:8333. Then, we establish 1 connections to address 57acrug2miefbr2r.onion:8333, and connections to address 43sybhczgtlylt72km37v2wuyevls4nt5qk6mfqilh2od57ugznk43qd.onion:8333 dropped to 3.
+Second phase, we establish 4 connections to address 57acrug2miefbr2r.onion:8333.
+43sybhczgtlylt72km37v2wuyevls4nt5qk6mfqilh2od57ugznk43qd.onion:8333 57acrug2miefbr2r.onion:8333 True
+耗时：368s
+First phase, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333. Then, we establish 1 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 dropped to 113.
+Second phase, we establish 109 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333.
+iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 True
+耗时：377s
+First phase, we establish 0 connections to address jhana24s3dzkitzp.onion:8333. Then, we establish 53 connections to address buddhovmm6ctfzz6et6jul5amux34df6fqmbk5qush3xzmqo2vjvnvyd.onion:8333, and connections to address jhana24s3dzkitzp.onion:8333 dropped to 0.
+jhana24s3dzkitzp.onion:8333 buddhovmm6ctfzz6et6jul5amux34df6fqmbk5qush3xzmqo2vjvnvyd.onion:8333 False
+耗时：229s
+First phase, we establish 115 connections to address 193.32.127.*:58477. Then, we establish 115 connections to address 193.32.127.*:58477, and connections to address 193.32.127.*:58477 dropped to 115.
+193.32.127.*:58477 193.32.127.*:58477 False
+耗时：59s
+First phase, we establish 115 connections to address 193.32.127.*:58477. Then, we establish 115 connections to address 193.32.127.*:58477, and connections to address 193.32.127.*:58477 dropped to 115.
+193.32.127.*:58477 193.32.127.*:58477 False
+耗时：50s
+First phase, we establish 115 connections to address 193.32.127.*:58477. Then, we establish 115 connections to address 193.32.127.*:58477, and connections to address 193.32.127.*:58477 dropped to 115.
+193.32.127.*:58477 193.32.127.*:58477 False
+耗时：59s
+First phase, we establish 18 connections to address hlo6xr4kslyhntlz5mfo2jgfnznnppajsyatnfiaofvsiqdd35kvlcad.onion:8333. Then, we establish 1 connections to address wux5f63skuignlh7t2indku6wwabfi4vum7jvns533n6tuvkl7d2aaqd.onion:8333, and connections to address hlo6xr4kslyhntlz5mfo2jgfnznnppajsyatnfiaofvsiqdd35kvlcad.onion:8333 dropped to 17.
+Second phase, we establish 18 connections to address wux5f63skuignlh7t2indku6wwabfi4vum7jvns533n6tuvkl7d2aaqd.onion:8333.
+hlo6xr4kslyhntlz5mfo2jgfnznnppajsyatnfiaofvsiqdd35kvlcad.onion:8333 wux5f63skuignlh7t2indku6wwabfi4vum7jvns533n6tuvkl7d2aaqd.onion:8333 True
+耗时：339s
+-------------- this is a line -------------
+First phase, we establish 6 connections to address 108.198.146.*:8333. Then, we establish 1 connections to address 173.164.210.*:8333, and connections to address 108.198.146.*:8333 dropped to 6.
+108.198.146.*:8333 173.164.210.*:8333 False
+耗时：42s
+First phase, we establish 28 connections to address 81.88.221.*:8333. Then, we establish 0 connections to address 91.77.168.*:8333, and connections to address 81.88.221.*:8333 dropped to 25.
+81.88.221.*:8333 91.77.168.*:8333 False
+耗时：60s
+First phase, we establish 28 connections to address 81.88.221.*:8333. Then, we establish 0 connections to address 77.37.212.*:8333, and connections to address 81.88.221.*:8333 dropped to 27.
+Second phase, we establish 27 connections to address 77.37.212.*:8333.
+81.88.221.*:8333 77.37.212.*:8333 True
+耗时：72s
+First phase, we establish 25 connections to address 91.77.168.*:8333. Then, we establish 0 connections to address 77.37.212.*:8333, and connections to address 91.77.168.*:8333 dropped to 24.
+Second phase, we establish 19 connections to address 77.37.212.*:8333.
+91.77.168.*:8333 77.37.212.*:8333 False
+耗时：82s
+First phase, we establish 15 connections to address 81.4.100.*:8333. Then, we establish 1 connections to address a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333, and connections to address 81.4.100.*:8333 dropped to 15.
+Second phase, we establish 12 connections to address a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333.
+81.4.100.*:8333 a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333 False
+耗时：275s
+First phase, we establish 42 connections to address jhana24s3dzkitzp.onion:8333. Then, we establish 0 connections to address buddhovmm6ctfzz6et6jul5amux34df6fqmbk5qush3xzmqo2vjvnvyd.onion:8333, and connections to address jhana24s3dzkitzp.onion:8333 dropped to 42.
+Second phase, we establish 42 connections to address buddhovmm6ctfzz6et6jul5amux34df6fqmbk5qush3xzmqo2vjvnvyd.onion:8333.
+jhana24s3dzkitzp.onion:8333 buddhovmm6ctfzz6et6jul5amux34df6fqmbk5qush3xzmqo2vjvnvyd.onion:8333 True
+耗时：372s
+-------------- this is a line -------------
+First phase, we establish 49 connections to address 108.198.146.*:8333. Then, we establish 0 connections to address 173.164.210.*:8333, and connections to address 108.198.146.*:8333 dropped to 49.
+Second phase, we establish 53 connections to address 173.164.210.*:8333.
+108.198.146.*:8333 173.164.210.*:8333 True
+耗时：86s
+First phase, we establish 25 connections to address 81.88.221.*:8333. Then, we establish 0 connections to address 91.77.168.*:8333, and connections to address 81.88.221.*:8333 dropped to 25.
+Second phase, we establish 23 connections to address 91.77.168.*:8333.
+81.88.221.*:8333 91.77.168.*:8333 True
+耗时：73s
+First phase, we establish 23 connections to address 81.88.221.*:8333. Then, we establish 0 connections to address 77.37.212.*:8333, and connections to address 81.88.221.*:8333 dropped to 23.
+Second phase, we establish 16 connections to address 77.37.212.*:8333.
+81.88.221.*:8333 77.37.212.*:8333 False
+耗时：75s
+First phase, we establish 16 connections to address 91.77.168.*:8333. Then, we establish 0 connections to address 77.37.212.*:8333, and connections to address 91.77.168.*:8333 dropped to 16.
+Second phase, we establish 15 connections to address 77.37.212.*:8333.
+91.77.168.*:8333 77.37.212.*:8333 True
+耗时：65s
+First phase, we establish 9 connections to address 81.4.100.*:8333. Then, we establish 2 connections to address a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333, and connections to address 81.4.100.*:8333 dropped to 9.
+81.4.100.*:8333 a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333 False
+耗时：138s
+-------------- this is a line -------------
+-------------- this is a line -------------
+-------------- this is a line -------------
+-------------- this is a line -------------
+-------------- this is a line -------------
+First phase, we establish 12 connections to address 81.4.100.*:8333. Then, we establish 2 connections to address a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333, and connections to address 81.4.100.*:8333 dropped to 12.
+81.4.100.*:8333 a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333 False
+耗时：147s
+-------------- this is a line -------------
+First phase, we establish 11 connections to address 81.4.100.*:8333. Then, we establish 1 connections to address a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333, and connections to address 81.4.100.*:8333 dropped to 11.
+Second phase, we establish 14 connections to address a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333.
+81.4.100.*:8333 a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333 False
+耗时：289s
+-------------- this is a line -------------
+First phase, we establish 9 connections to address 81.4.100.*:8333. Then, we establish 3 connections to address a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333, and connections to address 81.4.100.*:8333 dropped to 9.
+81.4.100.*:8333 a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333 False
+耗时：172s
+-------------- this is a line -------------
+First phase, we establish 10 connections to address 81.4.100.*:8333. Then, we establish 4 connections to address a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333, and connections to address 81.4.100.*:8333 dropped to 10.
+81.4.100.*:8333 a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333 False
+耗时：160s
+-------------- this is a line -------------
+First phase, we establish 11 connections to address 81.4.100.*:8333. Then, we establish 0 connections to address a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333, and connections to address 81.4.100.*:8333 dropped to 11.
+Second phase, we establish 12 connections to address a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333.
+81.4.100.*:8333 a7n3hcltl4jhy6uvoh4lnkk6ti5tlnsm52icv6yjxd722z5cc5asq5qd.onion:8333 True
+耗时：260s
