@@ -1,0 +1,13 @@
+-------------- this is a line -------------
+-------------- this is a line -------------
+-------------- this is a line -------------
+-------------- this is a line -------------
+-------------- this is a line -------------
+First phase, we establish 28 connections to address 49.233.16.*:8333. Then, we establish 19 connections to address [2402:4e00:1202:fe00:*]:8333, and connections to address 49.233.16.*:8333 dropped to 10.
+-------------- this is a line -------------
+First phase, we establish 13 connections to address 49.233.16.*:8333. Then, we establish 2 connections to address [2402:4e00:1202:fe00:*]:8333, and connections to address 49.233.16.*:8333 dropped to 13.
+Second phase, we establish 11 connections to address [2402:4e00:1202:fe00:*]:8333.
+特征一： 49.233.16.*:8333 [2402:4e00:1202:fe00:*]:8333 True
+特征一+特征二： 49.233.16.*:8333 [2402:4e00:1202:fe00:*]:8333 True
+耗时：93s
+-------------- this is a line -------------
