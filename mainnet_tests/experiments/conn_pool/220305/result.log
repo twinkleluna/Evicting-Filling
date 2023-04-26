@@ -1,0 +1,4 @@
+First phase, we establish 83 connections to address 101.43.219.*:8333. Then, we establish 0 connections to address 101.43.219.*:8334, and connections to address 101.43.219.*:8333 dropped to 81.
+Second phase, we establish 80 connections to address 101.43.219.*:8334.
+101.43.219.*:8333 101.43.219.*:8334 True
+耗时：80s

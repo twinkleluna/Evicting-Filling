@@ -1,0 +1,5 @@
+-------------- this is a line -------------
+In ablation experiment, we can establish 39 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 41 connections to address [2402:4e00:1202:fe00:*]:8333.
+特征二： 49.233.16.*:8333 [2402:4e00:1202:fe00:*]:8333 True
+耗时：56s
+In ablation experiment, we can establish 19 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 66 connections to address 101.43.219.*:8333.

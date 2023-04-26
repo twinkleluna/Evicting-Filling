@@ -1,0 +1,18 @@
+-------------- this is a line -------------
+First phase, we establish 117 connections to address 43.132.198.*:8233. Then, we establish 31 connections to address [240d:c000:2020:f00:*]:8233, and connections to address 43.132.198.*:8233 dropped to 86.
+Second phase, we establish 117 connections to address [240d:c000:2020:f00:*]:8233.
+特征一： 43.132.198.*:8233 [240d:c000:2020:f00:*]:8233 True
+特征一+特征二： 43.132.198.*:8233 [240d:c000:2020:f00:*]:8233 True
+耗时：74s
+In ablation experiment, we can establish 117 connections to address 43.132.198.*:8233, and after releasing these connections, we can establish 117 connections to address [240d:c000:2020:f00:*]:8233.
+特征二： 43.132.198.*:8233 [240d:c000:2020:f00:*]:8233 True
+耗时：51s
+-------------- this is a line -------------
+First phase, we establish 0 connections to address xlrtxftctoonthjefhukm5kyig7kb33kqvu2xbhmjhyyffbyinixtiad.onion:8333. Then, we establish 0 connections to address xpn7q5jrhaqdnaetjqyezo73thabayrwofzwchs2drxejecfxk6citid.onion:8333, and connections to address xlrtxftctoonthjefhukm5kyig7kb33kqvu2xbhmjhyyffbyinixtiad.onion:8333 dropped to 0.
+Second phase, we establish 0 connections to address xpn7q5jrhaqdnaetjqyezo73thabayrwofzwchs2drxejecfxk6citid.onion:8333.
+特征一： xlrtxftctoonthjefhukm5kyig7kb33kqvu2xbhmjhyyffbyinixtiad.onion:8333 xpn7q5jrhaqdnaetjqyezo73thabayrwofzwchs2drxejecfxk6citid.onion:8333 True
+特征一+特征二： xlrtxftctoonthjefhukm5kyig7kb33kqvu2xbhmjhyyffbyinixtiad.onion:8333 xpn7q5jrhaqdnaetjqyezo73thabayrwofzwchs2drxejecfxk6citid.onion:8333 True
+耗时：290s
+In ablation experiment, we can establish 0 connections to address xlrtxftctoonthjefhukm5kyig7kb33kqvu2xbhmjhyyffbyinixtiad.onion:8333, and after releasing these connections, we can establish 0 connections to address xpn7q5jrhaqdnaetjqyezo73thabayrwofzwchs2drxejecfxk6citid.onion:8333.
+特征二： xlrtxftctoonthjefhukm5kyig7kb33kqvu2xbhmjhyyffbyinixtiad.onion:8333 xpn7q5jrhaqdnaetjqyezo73thabayrwofzwchs2drxejecfxk6citid.onion:8333 True
+耗时：180s

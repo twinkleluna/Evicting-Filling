@@ -1,0 +1,4 @@
+First phase, we establish 106 connections to address 101.33.80.*:8333. Then, we establish 45 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and connections to address 101.33.80.*:8333 dropped to 59.
+Second phase, we establish 106 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333.
+101.33.80.*:8333 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 True
+耗时：675s

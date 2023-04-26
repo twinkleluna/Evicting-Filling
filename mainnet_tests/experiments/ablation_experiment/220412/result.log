@@ -1,0 +1,1541 @@
+-------------- this is a line -------------
+First phase, we establish 45 connections to address 49.233.16.*:8333. Then, we establish 22 connections to address [2402:4e00:1202:fe00:*]:8333, and connections to address 49.233.16.*:8333 dropped to 24.
+Second phase, we establish 47 connections to address [2402:4e00:1202:fe00:*]:8333.
+特征一： 49.233.16.*:8333 [2402:4e00:1202:fe00:*]:8333 True
+特征一+特征二： 49.233.16.*:8333 [2402:4e00:1202:fe00:*]:8333 True
+耗时：84s
+First phase, we establish 45 connections to address 49.233.16.*:8333. Then, we establish 72 connections to address 101.43.219.*:8333, and connections to address 49.233.16.*:8333 dropped to 45.
+特征一： 49.233.16.*:8333 101.43.219.*:8333 False
+特征一+特征二： 49.233.16.*:8333 101.43.219.*:8333 False
+耗时：59s
+First phase, we establish 45 connections to address 49.233.16.*:8333. Then, we establish 69 connections to address 101.43.219.*:8334, and connections to address 49.233.16.*:8333 dropped to 45.
+特征一： 49.233.16.*:8333 101.43.219.*:8334 False
+特征一+特征二： 49.233.16.*:8333 101.43.219.*:8334 False
+耗时：59s
+First phase, we establish 46 connections to address 49.233.16.*:8333. Then, we establish 72 connections to address 101.33.80.*:8333, and connections to address 49.233.16.*:8333 dropped to 45.
+特征一： 49.233.16.*:8333 101.33.80.*:8333 False
+特征一+特征二： 49.233.16.*:8333 101.33.80.*:8333 False
+耗时：56s
+First phase, we establish 46 connections to address 49.233.16.*:8333. Then, we establish 67 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and connections to address 49.233.16.*:8333 dropped to 43.
+特征一： 49.233.16.*:8333 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 False
+特征一+特征二： 49.233.16.*:8333 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 False
+耗时：149s
+First phase, we establish 45 connections to address 49.233.16.*:8333. Then, we establish 36 connections to address 43.132.198.*:8333, and connections to address 49.233.16.*:8333 dropped to 43.
+特征一： 49.233.16.*:8333 43.132.198.*:8333 False
+特征一+特征二： 49.233.16.*:8333 43.132.198.*:8333 False
+耗时：54s
+First phase, we establish 39 connections to address 49.233.16.*:8333. Then, we establish 35 connections to address [240d:c000:2020:f00:*]:8333, and connections to address 49.233.16.*:8333 dropped to 39.
+特征一： 49.233.16.*:8333 [240d:c000:2020:f00:*]:8333 False
+特征一+特征二： 49.233.16.*:8333 [240d:c000:2020:f00:*]:8333 False
+耗时：58s
+First phase, we establish 41 connections to address 49.233.16.*:8333. Then, we establish 34 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and connections to address 49.233.16.*:8333 dropped to 40.
+特征一： 49.233.16.*:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+特征一+特征二： 49.233.16.*:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+耗时：148s
+First phase, we establish 41 connections to address 49.233.16.*:8333. Then, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and connections to address 49.233.16.*:8333 dropped to 40.
+特征一： 49.233.16.*:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+特征一+特征二： 49.233.16.*:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：163s
+First phase, we establish 38 connections to address 49.233.16.*:8333. Then, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and connections to address 49.233.16.*:8333 dropped to 38.
+特征一： 49.233.16.*:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+特征一+特征二： 49.233.16.*:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：165s
+First phase, we establish 42 connections to address 49.233.16.*:8333. Then, we establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and connections to address 49.233.16.*:8333 dropped to 41.
+Second phase, we establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征一： 49.233.16.*:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 True
+特征一+特征二： 49.233.16.*:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：270s
+First phase, we establish 43 connections to address 49.233.16.*:8333. Then, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and connections to address 49.233.16.*:8333 dropped to 34.
+Second phase, we establish 5 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征一： 49.233.16.*:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 True
+特征一+特征二： 49.233.16.*:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：285s
+First phase, we establish 42 connections to address 49.233.16.*:8333. Then, we establish 86 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and connections to address 49.233.16.*:8333 dropped to 42.
+特征一： 49.233.16.*:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+特征一+特征二： 49.233.16.*:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：153s
+First phase, we establish 42 connections to address 49.233.16.*:8333. Then, we establish 88 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and connections to address 49.233.16.*:8333 dropped to 38.
+特征一： 49.233.16.*:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+特征一+特征二： 49.233.16.*:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：192s
+First phase, we establish 42 connections to address 49.233.16.*:8333. Then, we establish 39 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address 49.233.16.*:8333 dropped to 39.
+特征一： 49.233.16.*:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： 49.233.16.*:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：148s
+First phase, we establish 43 connections to address 49.233.16.*:8333. Then, we establish 39 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address 49.233.16.*:8333 dropped to 39.
+特征一： 49.233.16.*:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： 49.233.16.*:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：147s
+First phase, we establish 40 connections to address 49.233.16.*:8333. Then, we establish 112 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address 49.233.16.*:8333 dropped to 34.
+特征一： 49.233.16.*:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： 49.233.16.*:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：202s
+First phase, we establish 38 connections to address 49.233.16.*:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address 49.233.16.*:8333 dropped to 38.
+特征一： 49.233.16.*:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： 49.233.16.*:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：152s
+First phase, we establish 37 connections to address 49.233.16.*:8333. Then, we establish 1 connections to address 66.205.103.*:8333, and connections to address 49.233.16.*:8333 dropped to 37.
+Second phase, we establish 1 connections to address 66.205.103.*:8333.
+特征一： 49.233.16.*:8333 66.205.103.*:8333 True
+特征一+特征二： 49.233.16.*:8333 66.205.103.*:8333 False
+耗时：66s
+First phase, we establish 41 connections to address 49.233.16.*:8333. Then, we establish 1 connections to address 205.201.123.*:8333, and connections to address 49.233.16.*:8333 dropped to 41.
+Second phase, we establish 1 connections to address 205.201.123.*:8333.
+特征一： 49.233.16.*:8333 205.201.123.*:8333 True
+特征一+特征二： 49.233.16.*:8333 205.201.123.*:8333 False
+耗时：71s
+First phase, we establish 40 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 78 connections to address 101.43.219.*:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 40.
+特征一： [2402:4e00:1202:fe00:*]:8333 101.43.219.*:8333 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 101.43.219.*:8333 False
+耗时：60s
+First phase, we establish 39 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 77 connections to address 101.43.219.*:8334, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 39.
+特征一： [2402:4e00:1202:fe00:*]:8333 101.43.219.*:8334 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 101.43.219.*:8334 False
+耗时：59s
+First phase, we establish 42 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 78 connections to address 101.33.80.*:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 42.
+特征一： [2402:4e00:1202:fe00:*]:8333 101.33.80.*:8333 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 101.33.80.*:8333 False
+耗时：59s
+First phase, we establish 46 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 76 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 44.
+特征一： [2402:4e00:1202:fe00:*]:8333 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 False
+耗时：150s
+First phase, we establish 44 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 46 connections to address 43.132.198.*:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 42.
+特征一： [2402:4e00:1202:fe00:*]:8333 43.132.198.*:8333 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 43.132.198.*:8333 False
+耗时：56s
+First phase, we establish 46 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 45 connections to address [240d:c000:2020:f00:*]:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 46.
+特征一： [2402:4e00:1202:fe00:*]:8333 [240d:c000:2020:f00:*]:8333 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 [240d:c000:2020:f00:*]:8333 False
+耗时：54s
+First phase, we establish 46 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 44 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 42.
+特征一： [2402:4e00:1202:fe00:*]:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+耗时：167s
+First phase, we establish 40 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 35.
+特征一： [2402:4e00:1202:fe00:*]:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：153s
+First phase, we establish 40 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 102 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 39.
+特征一： [2402:4e00:1202:fe00:*]:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：153s
+First phase, we establish 39 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 6 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 38.
+Second phase, we establish 7 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征一： [2402:4e00:1202:fe00:*]:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 True
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：268s
+First phase, we establish 42 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 7 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 39.
+Second phase, we establish 7 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征一： [2402:4e00:1202:fe00:*]:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 True
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：254s
+First phase, we establish 40 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 83 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 39.
+特征一： [2402:4e00:1202:fe00:*]:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：146s
+First phase, we establish 44 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 84 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 40.
+特征一： [2402:4e00:1202:fe00:*]:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：155s
+First phase, we establish 40 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 39 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 38.
+特征一： [2402:4e00:1202:fe00:*]:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：151s
+First phase, we establish 41 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 39 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 41.
+特征一： [2402:4e00:1202:fe00:*]:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：146s
+First phase, we establish 43 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 38.
+特征一： [2402:4e00:1202:fe00:*]:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：153s
+First phase, we establish 41 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 37.
+特征一： [2402:4e00:1202:fe00:*]:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：148s
+First phase, we establish 40 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 1 connections to address 66.205.103.*:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 37.
+Second phase, we establish 1 connections to address 66.205.103.*:8333.
+特征一： [2402:4e00:1202:fe00:*]:8333 66.205.103.*:8333 True
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 66.205.103.*:8333 False
+耗时：68s
+First phase, we establish 36 connections to address [2402:4e00:1202:fe00:*]:8333. Then, we establish 1 connections to address 205.201.123.*:8333, and connections to address [2402:4e00:1202:fe00:*]:8333 dropped to 36.
+Second phase, we establish 1 connections to address 205.201.123.*:8333.
+特征一： [2402:4e00:1202:fe00:*]:8333 205.201.123.*:8333 True
+特征一+特征二： [2402:4e00:1202:fe00:*]:8333 205.201.123.*:8333 False
+耗时：68s
+First phase, we establish 67 connections to address 101.43.219.*:8333. Then, we establish 1 connections to address 101.43.219.*:8334, and connections to address 101.43.219.*:8333 dropped to 67.
+Second phase, we establish 68 connections to address 101.43.219.*:8334.
+特征一： 101.43.219.*:8333 101.43.219.*:8334 True
+特征一+特征二： 101.43.219.*:8333 101.43.219.*:8334 True
+耗时：85s
+First phase, we establish 67 connections to address 101.43.219.*:8333. Then, we establish 67 connections to address 101.33.80.*:8333, and connections to address 101.43.219.*:8333 dropped to 67.
+特征一： 101.43.219.*:8333 101.33.80.*:8333 False
+特征一+特征二： 101.43.219.*:8333 101.33.80.*:8333 False
+耗时：59s
+First phase, we establish 70 connections to address 101.43.219.*:8333. Then, we establish 69 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and connections to address 101.43.219.*:8333 dropped to 65.
+特征一： 101.43.219.*:8333 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 False
+特征一+特征二： 101.43.219.*:8333 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 False
+耗时：152s
+First phase, we establish 67 connections to address 101.43.219.*:8333. Then, we establish 41 connections to address 43.132.198.*:8333, and connections to address 101.43.219.*:8333 dropped to 66.
+特征一： 101.43.219.*:8333 43.132.198.*:8333 False
+特征一+特征二： 101.43.219.*:8333 43.132.198.*:8333 False
+耗时：54s
+First phase, we establish 67 connections to address 101.43.219.*:8333. Then, we establish 40 connections to address [240d:c000:2020:f00:*]:8333, and connections to address 101.43.219.*:8333 dropped to 67.
+特征一： 101.43.219.*:8333 [240d:c000:2020:f00:*]:8333 False
+特征一+特征二： 101.43.219.*:8333 [240d:c000:2020:f00:*]:8333 False
+耗时：58s
+First phase, we establish 70 connections to address 101.43.219.*:8333. Then, we establish 40 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and connections to address 101.43.219.*:8333 dropped to 70.
+特征一： 101.43.219.*:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+特征一+特征二： 101.43.219.*:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+耗时：148s
+First phase, we establish 66 connections to address 101.43.219.*:8333. Then, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and connections to address 101.43.219.*:8333 dropped to 66.
+特征一： 101.43.219.*:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+特征一+特征二： 101.43.219.*:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：166s
+First phase, we establish 68 connections to address 101.43.219.*:8333. Then, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and connections to address 101.43.219.*:8333 dropped to 68.
+特征一： 101.43.219.*:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+特征一+特征二： 101.43.219.*:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：163s
+First phase, we establish 71 connections to address 101.43.219.*:8333. Then, we establish 6 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and connections to address 101.43.219.*:8333 dropped to 71.
+Second phase, we establish 6 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征一： 101.43.219.*:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 True
+特征一+特征二： 101.43.219.*:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：270s
+First phase, we establish 74 connections to address 101.43.219.*:8333. Then, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and connections to address 101.43.219.*:8333 dropped to 72.
+Second phase, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征一： 101.43.219.*:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 True
+特征一+特征二： 101.43.219.*:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：269s
+First phase, we establish 72 connections to address 101.43.219.*:8333. Then, we establish 88 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and connections to address 101.43.219.*:8333 dropped to 71.
+特征一： 101.43.219.*:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+特征一+特征二： 101.43.219.*:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：150s
+First phase, we establish 71 connections to address 101.43.219.*:8333. Then, we establish 87 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and connections to address 101.43.219.*:8333 dropped to 71.
+特征一： 101.43.219.*:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+特征一+特征二： 101.43.219.*:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：153s
+First phase, we establish 70 connections to address 101.43.219.*:8333. Then, we establish 40 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address 101.43.219.*:8333 dropped to 67.
+特征一： 101.43.219.*:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： 101.43.219.*:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：145s
+First phase, we establish 71 connections to address 101.43.219.*:8333. Then, we establish 40 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address 101.43.219.*:8333 dropped to 70.
+特征一： 101.43.219.*:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： 101.43.219.*:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：145s
+First phase, we establish 72 connections to address 101.43.219.*:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address 101.43.219.*:8333 dropped to 69.
+特征一： 101.43.219.*:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： 101.43.219.*:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：129s
+First phase, we establish 72 connections to address 101.43.219.*:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address 101.43.219.*:8333 dropped to 67.
+特征一： 101.43.219.*:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： 101.43.219.*:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：150s
+First phase, we establish 69 connections to address 101.43.219.*:8333. Then, we establish 0 connections to address 66.205.103.*:8333, and connections to address 101.43.219.*:8333 dropped to 69.
+Second phase, we establish 0 connections to address 66.205.103.*:8333.
+特征一： 101.43.219.*:8333 66.205.103.*:8333 True
+特征一+特征二： 101.43.219.*:8333 66.205.103.*:8333 False
+耗时：73s
+First phase, we establish 73 connections to address 101.43.219.*:8333. Then, we establish 0 connections to address 205.201.123.*:8333, and connections to address 101.43.219.*:8333 dropped to 72.
+Second phase, we establish 0 connections to address 205.201.123.*:8333.
+特征一： 101.43.219.*:8333 205.201.123.*:8333 True
+特征一+特征二： 101.43.219.*:8333 205.201.123.*:8333 False
+耗时：72s
+First phase, we establish 73 connections to address 101.43.219.*:8334. Then, we establish 73 connections to address 101.33.80.*:8333, and connections to address 101.43.219.*:8334 dropped to 72.
+特征一： 101.43.219.*:8334 101.33.80.*:8333 False
+特征一+特征二： 101.43.219.*:8334 101.33.80.*:8333 False
+耗时：55s
+First phase, we establish 71 connections to address 101.43.219.*:8334. Then, we establish 72 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and connections to address 101.43.219.*:8334 dropped to 70.
+特征一： 101.43.219.*:8334 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 False
+特征一+特征二： 101.43.219.*:8334 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 False
+耗时：149s
+First phase, we establish 73 connections to address 101.43.219.*:8334. Then, we establish 40 connections to address 43.132.198.*:8333, and connections to address 101.43.219.*:8334 dropped to 73.
+特征一： 101.43.219.*:8334 43.132.198.*:8333 False
+特征一+特征二： 101.43.219.*:8334 43.132.198.*:8333 False
+耗时：47s
+First phase, we establish 72 connections to address 101.43.219.*:8334. Then, we establish 41 connections to address [240d:c000:2020:f00:*]:8333, and connections to address 101.43.219.*:8334 dropped to 72.
+特征一： 101.43.219.*:8334 [240d:c000:2020:f00:*]:8333 False
+特征一+特征二： 101.43.219.*:8334 [240d:c000:2020:f00:*]:8333 False
+耗时：57s
+First phase, we establish 72 connections to address 101.43.219.*:8334. Then, we establish 40 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and connections to address 101.43.219.*:8334 dropped to 71.
+特征一： 101.43.219.*:8334 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+特征一+特征二： 101.43.219.*:8334 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+耗时：154s
+First phase, we establish 75 connections to address 101.43.219.*:8334. Then, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and connections to address 101.43.219.*:8334 dropped to 73.
+特征一： 101.43.219.*:8334 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+特征一+特征二： 101.43.219.*:8334 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：149s
+First phase, we establish 75 connections to address 101.43.219.*:8334. Then, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and connections to address 101.43.219.*:8334 dropped to 72.
+特征一： 101.43.219.*:8334 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+特征一+特征二： 101.43.219.*:8334 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：227s
+First phase, we establish 73 connections to address 101.43.219.*:8334. Then, we establish 6 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and connections to address 101.43.219.*:8334 dropped to 73.
+Second phase, we establish 6 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征一： 101.43.219.*:8334 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 True
+特征一+特征二： 101.43.219.*:8334 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：336s
+First phase, we establish 71 connections to address 101.43.219.*:8334. Then, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and connections to address 101.43.219.*:8334 dropped to 71.
+Second phase, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征一： 101.43.219.*:8334 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 True
+特征一+特征二： 101.43.219.*:8334 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：306s
+First phase, we establish 71 connections to address 101.43.219.*:8334. Then, we establish 83 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and connections to address 101.43.219.*:8334 dropped to 71.
+特征一： 101.43.219.*:8334 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+特征一+特征二： 101.43.219.*:8334 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：197s
+First phase, we establish 71 connections to address 101.43.219.*:8334. Then, we establish 76 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and connections to address 101.43.219.*:8334 dropped to 71.
+特征一： 101.43.219.*:8334 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+特征一+特征二： 101.43.219.*:8334 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：209s
+First phase, we establish 76 connections to address 101.43.219.*:8334. Then, we establish 40 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address 101.43.219.*:8334 dropped to 72.
+特征一： 101.43.219.*:8334 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： 101.43.219.*:8334 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：146s
+First phase, we establish 74 connections to address 101.43.219.*:8334. Then, we establish 40 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address 101.43.219.*:8334 dropped to 73.
+特征一： 101.43.219.*:8334 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： 101.43.219.*:8334 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：146s
+First phase, we establish 76 connections to address 101.43.219.*:8334. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address 101.43.219.*:8334 dropped to 74.
+特征一： 101.43.219.*:8334 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： 101.43.219.*:8334 3xucqntxp5ddoaz5.onion:8333 False
+耗时：150s
+First phase, we establish 74 connections to address 101.43.219.*:8334. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address 101.43.219.*:8334 dropped to 74.
+特征一： 101.43.219.*:8334 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： 101.43.219.*:8334 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：161s
+First phase, we establish 75 connections to address 101.43.219.*:8334. Then, we establish 1 connections to address 66.205.103.*:8333, and connections to address 101.43.219.*:8334 dropped to 75.
+Second phase, we establish 1 connections to address 66.205.103.*:8333.
+特征一： 101.43.219.*:8334 66.205.103.*:8333 True
+特征一+特征二： 101.43.219.*:8334 66.205.103.*:8333 False
+耗时：80s
+First phase, we establish 77 connections to address 101.43.219.*:8334. Then, we establish 1 connections to address 205.201.123.*:8333, and connections to address 101.43.219.*:8334 dropped to 77.
+Second phase, we establish 1 connections to address 205.201.123.*:8333.
+特征一： 101.43.219.*:8334 205.201.123.*:8333 True
+特征一+特征二： 101.43.219.*:8334 205.201.123.*:8333 False
+耗时：80s
+First phase, we establish 72 connections to address 101.33.80.*:8333. Then, we establish 42 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and connections to address 101.33.80.*:8333 dropped to 27.
+Second phase, we establish 70 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333.
+特征一： 101.33.80.*:8333 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 True
+特征一+特征二： 101.33.80.*:8333 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 True
+耗时：273s
+First phase, we establish 69 connections to address 101.33.80.*:8333. Then, we establish 42 connections to address 43.132.198.*:8333, and connections to address 101.33.80.*:8333 dropped to 69.
+特征一： 101.33.80.*:8333 43.132.198.*:8333 False
+特征一+特征二： 101.33.80.*:8333 43.132.198.*:8333 False
+耗时：51s
+First phase, we establish 67 connections to address 101.33.80.*:8333. Then, we establish 41 connections to address [240d:c000:2020:f00:*]:8333, and connections to address 101.33.80.*:8333 dropped to 67.
+特征一： 101.33.80.*:8333 [240d:c000:2020:f00:*]:8333 False
+特征一+特征二： 101.33.80.*:8333 [240d:c000:2020:f00:*]:8333 False
+耗时：58s
+First phase, we establish 68 connections to address 101.33.80.*:8333. Then, we establish 36 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and connections to address 101.33.80.*:8333 dropped to 63.
+特征一： 101.33.80.*:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+特征一+特征二： 101.33.80.*:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+耗时：148s
+First phase, we establish 69 connections to address 101.33.80.*:8333. Then, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and connections to address 101.33.80.*:8333 dropped to 68.
+特征一： 101.33.80.*:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+特征一+特征二： 101.33.80.*:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：164s
+First phase, we establish 67 connections to address 101.33.80.*:8333. Then, we establish 110 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and connections to address 101.33.80.*:8333 dropped to 67.
+特征一： 101.33.80.*:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+特征一+特征二： 101.33.80.*:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：165s
+First phase, we establish 68 connections to address 101.33.80.*:8333. Then, we establish 7 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and connections to address 101.33.80.*:8333 dropped to 68.
+Second phase, we establish 6 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征一： 101.33.80.*:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 True
+特征一+特征二： 101.33.80.*:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：257s
+First phase, we establish 70 connections to address 101.33.80.*:8333. Then, we establish 7 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and connections to address 101.33.80.*:8333 dropped to 68.
+Second phase, we establish 5 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征一： 101.33.80.*:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 True
+特征一+特征二： 101.33.80.*:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：271s
+First phase, we establish 70 connections to address 101.33.80.*:8333. Then, we establish 81 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and connections to address 101.33.80.*:8333 dropped to 69.
+特征一： 101.33.80.*:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+特征一+特征二： 101.33.80.*:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：149s
+First phase, we establish 71 connections to address 101.33.80.*:8333. Then, we establish 82 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and connections to address 101.33.80.*:8333 dropped to 70.
+特征一： 101.33.80.*:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+特征一+特征二： 101.33.80.*:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：147s
+First phase, we establish 72 connections to address 101.33.80.*:8333. Then, we establish 38 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address 101.33.80.*:8333 dropped to 71.
+特征一： 101.33.80.*:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： 101.33.80.*:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：146s
+First phase, we establish 74 connections to address 101.33.80.*:8333. Then, we establish 38 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address 101.33.80.*:8333 dropped to 71.
+特征一： 101.33.80.*:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： 101.33.80.*:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：147s
+First phase, we establish 70 connections to address 101.33.80.*:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address 101.33.80.*:8333 dropped to 70.
+特征一： 101.33.80.*:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： 101.33.80.*:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：163s
+First phase, we establish 70 connections to address 101.33.80.*:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address 101.33.80.*:8333 dropped to 70.
+特征一： 101.33.80.*:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： 101.33.80.*:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：162s
+First phase, we establish 74 connections to address 101.33.80.*:8333. Then, we establish 1 connections to address 66.205.103.*:8333, and connections to address 101.33.80.*:8333 dropped to 73.
+Second phase, we establish 1 connections to address 66.205.103.*:8333.
+特征一： 101.33.80.*:8333 66.205.103.*:8333 True
+特征一+特征二： 101.33.80.*:8333 66.205.103.*:8333 False
+耗时：64s
+First phase, we establish 73 connections to address 101.33.80.*:8333. Then, we establish 1 connections to address 205.201.123.*:8333, and connections to address 101.33.80.*:8333 dropped to 72.
+Second phase, we establish 1 connections to address 205.201.123.*:8333.
+特征一： 101.33.80.*:8333 205.201.123.*:8333 True
+特征一+特征二： 101.33.80.*:8333 205.201.123.*:8333 False
+耗时：69s
+First phase, we establish 74 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 45 connections to address 43.132.198.*:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 74.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 43.132.198.*:8333 False
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 43.132.198.*:8333 False
+耗时：136s
+First phase, we establish 72 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 43 connections to address [240d:c000:2020:f00:*]:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 72.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 [240d:c000:2020:f00:*]:8333 False
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 [240d:c000:2020:f00:*]:8333 False
+耗时：124s
+First phase, we establish 73 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 36 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 73.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+耗时：244s
+First phase, we establish 72 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 72.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：246s
+First phase, we establish 75 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 75.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：320s
+First phase, we establish 73 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 73.
+Second phase, we establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 True
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：371s
+First phase, we establish 71 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 5 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 71.
+Second phase, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 True
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：429s
+First phase, we establish 69 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 75 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 69.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：250s
+First phase, we establish 69 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 82 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 69.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：245s
+First phase, we establish 72 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 36 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 72.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：245s
+First phase, we establish 74 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 35 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 73.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：245s
+First phase, we establish 72 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 72.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：244s
+First phase, we establish 74 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 73.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：245s
+First phase, we establish 72 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 0 connections to address 66.205.103.*:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 72.
+Second phase, we establish 0 connections to address 66.205.103.*:8333.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 66.205.103.*:8333 True
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 66.205.103.*:8333 False
+耗时：140s
+First phase, we establish 72 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333. Then, we establish 1 connections to address 205.201.123.*:8333, and connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 dropped to 71.
+Second phase, we establish 1 connections to address 205.201.123.*:8333.
+特征一： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 205.201.123.*:8333 True
+特征一+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 205.201.123.*:8333 False
+耗时：153s
+First phase, we establish 40 connections to address 43.132.198.*:8333. Then, we establish 17 connections to address [240d:c000:2020:f00:*]:8333, and connections to address 43.132.198.*:8333 dropped to 22.
+Second phase, we establish 43 connections to address [240d:c000:2020:f00:*]:8333.
+特征一： 43.132.198.*:8333 [240d:c000:2020:f00:*]:8333 True
+特征一+特征二： 43.132.198.*:8333 [240d:c000:2020:f00:*]:8333 True
+耗时：82s
+First phase, we establish 43 connections to address 43.132.198.*:8333. Then, we establish 32 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and connections to address 43.132.198.*:8333 dropped to 9.
+Second phase, we establish 39 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333.
+特征一： 43.132.198.*:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 True
+特征一+特征二： 43.132.198.*:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 True
+耗时：274s
+First phase, we establish 42 connections to address 43.132.198.*:8333. Then, we establish 107 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and connections to address 43.132.198.*:8333 dropped to 41.
+特征一： 43.132.198.*:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+特征一+特征二： 43.132.198.*:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：224s
+First phase, we establish 43 connections to address 43.132.198.*:8333. Then, we establish 112 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and connections to address 43.132.198.*:8333 dropped to 39.
+特征一： 43.132.198.*:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+特征一+特征二： 43.132.198.*:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：152s
+First phase, we establish 40 connections to address 43.132.198.*:8333. Then, we establish 3 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and connections to address 43.132.198.*:8333 dropped to 38.
+Second phase, we establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征一： 43.132.198.*:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 True
+特征一+特征二： 43.132.198.*:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：286s
+First phase, we establish 44 connections to address 43.132.198.*:8333. Then, we establish 3 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and connections to address 43.132.198.*:8333 dropped to 42.
+Second phase, we establish 3 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征一： 43.132.198.*:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 True
+特征一+特征二： 43.132.198.*:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：270s
+First phase, we establish 38 connections to address 43.132.198.*:8333. Then, we establish 83 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and connections to address 43.132.198.*:8333 dropped to 36.
+特征一： 43.132.198.*:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+特征一+特征二： 43.132.198.*:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：145s
+First phase, we establish 39 connections to address 43.132.198.*:8333. Then, we establish 84 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and connections to address 43.132.198.*:8333 dropped to 37.
+特征一： 43.132.198.*:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+特征一+特征二： 43.132.198.*:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：147s
+First phase, we establish 41 connections to address 43.132.198.*:8333. Then, we establish 39 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address 43.132.198.*:8333 dropped to 37.
+特征一： 43.132.198.*:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： 43.132.198.*:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：145s
+First phase, we establish 38 connections to address 43.132.198.*:8333. Then, we establish 39 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address 43.132.198.*:8333 dropped to 38.
+特征一： 43.132.198.*:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： 43.132.198.*:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：146s
+First phase, we establish 38 connections to address 43.132.198.*:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address 43.132.198.*:8333 dropped to 36.
+特征一： 43.132.198.*:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： 43.132.198.*:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：189s
+First phase, we establish 38 connections to address 43.132.198.*:8333. Then, we establish 106 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address 43.132.198.*:8333 dropped to 36.
+特征一： 43.132.198.*:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： 43.132.198.*:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：223s
+First phase, we establish 42 connections to address 43.132.198.*:8333. Then, we establish 1 connections to address 66.205.103.*:8333, and connections to address 43.132.198.*:8333 dropped to 39.
+Second phase, we establish 1 connections to address 66.205.103.*:8333.
+特征一： 43.132.198.*:8333 66.205.103.*:8333 True
+特征一+特征二： 43.132.198.*:8333 66.205.103.*:8333 False
+耗时：64s
+First phase, we establish 36 connections to address 43.132.198.*:8333. Then, we establish 0 connections to address 205.201.123.*:8333, and connections to address 43.132.198.*:8333 dropped to 36.
+Second phase, we establish 1 connections to address 205.201.123.*:8333.
+特征一： 43.132.198.*:8333 205.201.123.*:8333 True
+特征一+特征二： 43.132.198.*:8333 205.201.123.*:8333 False
+耗时：64s
+First phase, we establish 42 connections to address [240d:c000:2020:f00:*]:8333. Then, we establish 31 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and connections to address [240d:c000:2020:f00:*]:8333 dropped to 7.
+Second phase, we establish 39 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333.
+特征一： [240d:c000:2020:f00:*]:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 True
+特征一+特征二： [240d:c000:2020:f00:*]:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 True
+耗时：290s
+First phase, we establish 25 connections to address [240d:c000:2020:f00:*]:8333. Then, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and connections to address [240d:c000:2020:f00:*]:8333 dropped to 25.
+特征一： [240d:c000:2020:f00:*]:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+特征一+特征二： [240d:c000:2020:f00:*]:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：150s
+First phase, we establish 44 connections to address [240d:c000:2020:f00:*]:8333. Then, we establish 107 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and connections to address [240d:c000:2020:f00:*]:8333 dropped to 37.
+特征一： [240d:c000:2020:f00:*]:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+特征一+特征二： [240d:c000:2020:f00:*]:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：150s
+First phase, we establish 38 connections to address [240d:c000:2020:f00:*]:8333. Then, we establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and connections to address [240d:c000:2020:f00:*]:8333 dropped to 38.
+Second phase, we establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征一： [240d:c000:2020:f00:*]:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 True
+特征一+特征二： [240d:c000:2020:f00:*]:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：285s
+First phase, we establish 39 connections to address [240d:c000:2020:f00:*]:8333. Then, we establish 4 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and connections to address [240d:c000:2020:f00:*]:8333 dropped to 32.
+Second phase, we establish 3 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征一： [240d:c000:2020:f00:*]:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 True
+特征一+特征二： [240d:c000:2020:f00:*]:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：268s
+First phase, we establish 37 connections to address [240d:c000:2020:f00:*]:8333. Then, we establish 82 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and connections to address [240d:c000:2020:f00:*]:8333 dropped to 34.
+特征一： [240d:c000:2020:f00:*]:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+特征一+特征二： [240d:c000:2020:f00:*]:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：149s
+First phase, we establish 32 connections to address [240d:c000:2020:f00:*]:8333. Then, we establish 78 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and connections to address [240d:c000:2020:f00:*]:8333 dropped to 31.
+特征一： [240d:c000:2020:f00:*]:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+特征一+特征二： [240d:c000:2020:f00:*]:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：123s
+First phase, we establish 28 connections to address [240d:c000:2020:f00:*]:8333. Then, we establish 42 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address [240d:c000:2020:f00:*]:8333 dropped to 28.
+特征一： [240d:c000:2020:f00:*]:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： [240d:c000:2020:f00:*]:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：145s
+First phase, we establish 31 connections to address [240d:c000:2020:f00:*]:8333. Then, we establish 43 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address [240d:c000:2020:f00:*]:8333 dropped to 30.
+特征一： [240d:c000:2020:f00:*]:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： [240d:c000:2020:f00:*]:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：145s
+First phase, we establish 31 connections to address [240d:c000:2020:f00:*]:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address [240d:c000:2020:f00:*]:8333 dropped to 27.
+特征一： [240d:c000:2020:f00:*]:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： [240d:c000:2020:f00:*]:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：162s
+First phase, we establish 31 connections to address [240d:c000:2020:f00:*]:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address [240d:c000:2020:f00:*]:8333 dropped to 29.
+特征一： [240d:c000:2020:f00:*]:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： [240d:c000:2020:f00:*]:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：150s
+First phase, we establish 29 connections to address [240d:c000:2020:f00:*]:8333. Then, we establish 1 connections to address 66.205.103.*:8333, and connections to address [240d:c000:2020:f00:*]:8333 dropped to 29.
+Second phase, we establish 1 connections to address 66.205.103.*:8333.
+特征一： [240d:c000:2020:f00:*]:8333 66.205.103.*:8333 True
+特征一+特征二： [240d:c000:2020:f00:*]:8333 66.205.103.*:8333 False
+耗时：74s
+First phase, we establish 33 connections to address [240d:c000:2020:f00:*]:8333. Then, we establish 1 connections to address 205.201.123.*:8333, and connections to address [240d:c000:2020:f00:*]:8333 dropped to 33.
+Second phase, we establish 1 connections to address 205.201.123.*:8333.
+特征一： [240d:c000:2020:f00:*]:8333 205.201.123.*:8333 True
+特征一+特征二： [240d:c000:2020:f00:*]:8333 205.201.123.*:8333 False
+耗时：78s
+First phase, we establish 34 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333. Then, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 dropped to 34.
+特征一： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+特征一+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：249s
+First phase, we establish 30 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333. Then, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 dropped to 30.
+特征一： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+特征一+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：244s
+First phase, we establish 36 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333. Then, we establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 dropped to 36.
+Second phase, we establish 3 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征一： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 True
+特征一+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：368s
+First phase, we establish 35 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333. Then, we establish 3 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 dropped to 35.
+Second phase, we establish 4 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征一： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 True
+特征一+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：373s
+First phase, we establish 37 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333. Then, we establish 82 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 dropped to 37.
+特征一： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+特征一+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：245s
+First phase, we establish 39 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333. Then, we establish 83 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 dropped to 39.
+特征一： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+特征一+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：244s
+First phase, we establish 40 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333. Then, we establish 42 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 dropped to 40.
+特征一： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：244s
+First phase, we establish 42 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333. Then, we establish 42 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 dropped to 42.
+特征一： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：245s
+First phase, we establish 41 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 dropped to 41.
+特征一： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：244s
+First phase, we establish 40 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333. Then, we establish 114 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 dropped to 38.
+特征一： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：246s
+First phase, we establish 34 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333. Then, we establish 0 connections to address 66.205.103.*:8333, and connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 dropped to 34.
+Second phase, we establish 1 connections to address 66.205.103.*:8333.
+特征一： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 66.205.103.*:8333 True
+特征一+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 66.205.103.*:8333 False
+耗时：147s
+First phase, we establish 37 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333. Then, we establish 0 connections to address 205.201.123.*:8333, and connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 dropped to 37.
+Second phase, we establish 0 connections to address 205.201.123.*:8333.
+特征一： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 205.201.123.*:8333 True
+特征一+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 205.201.123.*:8333 False
+耗时：139s
+First phase, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333. Then, we establish 1 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 dropped to 113.
+Second phase, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333.
+特征一： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 True
+特征一+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 True
+耗时：392s
+First phase, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333. Then, we establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 dropped to 114.
+Second phase, we establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征一： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 True
+特征一+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：372s
+First phase, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333. Then, we establish 4 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 dropped to 114.
+Second phase, we establish 3 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征一： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 True
+特征一+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：376s
+First phase, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333. Then, we establish 84 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 dropped to 114.
+特征一： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+特征一+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：272s
+First phase, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333. Then, we establish 84 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 dropped to 114.
+特征一： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+特征一+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：279s
+First phase, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333. Then, we establish 44 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 dropped to 114.
+特征一： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：289s
+First phase, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333. Then, we establish 44 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 dropped to 114.
+特征一： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：247s
+First phase, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 dropped to 114.
+特征一： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：248s
+First phase, we establish 108 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 dropped to 108.
+特征一： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：247s
+First phase, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333. Then, we establish 0 connections to address 66.205.103.*:8333, and connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 dropped to 114.
+Second phase, we establish 1 connections to address 66.205.103.*:8333.
+特征一： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 66.205.103.*:8333 True
+特征一+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 66.205.103.*:8333 False
+耗时：149s
+First phase, we establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333. Then, we establish 0 connections to address 205.201.123.*:8333, and connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 dropped to 114.
+Second phase, we establish 1 connections to address 205.201.123.*:8333.
+特征一： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 205.201.123.*:8333 True
+特征一+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 205.201.123.*:8333 False
+耗时：211s
+First phase, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333. Then, we establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 dropped to 114.
+Second phase, we establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征一： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 True
+特征一+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：378s
+First phase, we establish 108 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333. Then, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 dropped to 108.
+Second phase, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征一： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 True
+特征一+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：379s
+First phase, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333. Then, we establish 81 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 dropped to 114.
+特征一： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+特征一+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：251s
+First phase, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333. Then, we establish 79 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 dropped to 114.
+特征一： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+特征一+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：246s
+First phase, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333. Then, we establish 43 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 dropped to 114.
+特征一： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：246s
+First phase, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333. Then, we establish 43 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 dropped to 114.
+特征一： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：244s
+First phase, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 dropped to 114.
+特征一： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：249s
+First phase, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 dropped to 114.
+特征一： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：245s
+First phase, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333. Then, we establish 0 connections to address 66.205.103.*:8333, and connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 dropped to 114.
+Second phase, we establish 0 connections to address 66.205.103.*:8333.
+特征一： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 66.205.103.*:8333 True
+特征一+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 66.205.103.*:8333 False
+耗时：141s
+First phase, we establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333. Then, we establish 0 connections to address 205.201.123.*:8333, and connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 dropped to 114.
+Second phase, we establish 0 connections to address 205.201.123.*:8333.
+特征一： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 205.201.123.*:8333 True
+特征一+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 205.201.123.*:8333 False
+耗时：141s
+First phase, we establish 6 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333. Then, we establish 1 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 dropped to 5.
+Second phase, we establish 5 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征一： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 True
+特征一+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 True
+耗时：339s
+First phase, we establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333. Then, we establish 81 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 dropped to 5.
+特征一： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+特征一+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：242s
+First phase, we establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333. Then, we establish 82 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 dropped to 5.
+特征一： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+特征一+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：290s
+First phase, we establish 6 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333. Then, we establish 43 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 dropped to 5.
+特征一： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：245s
+First phase, we establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333. Then, we establish 43 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 dropped to 5.
+特征一： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：243s
+First phase, we establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 dropped to 5.
+特征一： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：242s
+First phase, we establish 6 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 dropped to 5.
+特征一： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：288s
+First phase, we establish 6 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333. Then, we establish 1 connections to address 66.205.103.*:8333, and connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 dropped to 6.
+Second phase, we establish 1 connections to address 66.205.103.*:8333.
+特征一： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 66.205.103.*:8333 True
+特征一+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 66.205.103.*:8333 False
+耗时：150s
+First phase, we establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333. Then, we establish 1 connections to address 205.201.123.*:8333, and connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 dropped to 6.
+特征一： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 205.201.123.*:8333 False
+特征一+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 205.201.123.*:8333 False
+耗时：159s
+First phase, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333. Then, we establish 79 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 dropped to 6.
+特征一： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+特征一+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：246s
+First phase, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333. Then, we establish 79 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 dropped to 6.
+特征一： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+特征一+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：243s
+First phase, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333. Then, we establish 41 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 dropped to 6.
+特征一： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：264s
+First phase, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333. Then, we establish 41 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 dropped to 6.
+特征一： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：253s
+First phase, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 dropped to 6.
+特征一： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：251s
+First phase, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 dropped to 6.
+特征一： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：242s
+First phase, we establish 7 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333. Then, we establish 1 connections to address 66.205.103.*:8333, and connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 dropped to 6.
+Second phase, we establish 0 connections to address 66.205.103.*:8333.
+特征一： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 66.205.103.*:8333 True
+特征一+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 66.205.103.*:8333 False
+耗时：138s
+First phase, we establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333. Then, we establish 0 connections to address 205.201.123.*:8333, and connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 dropped to 6.
+Second phase, we establish 0 connections to address 205.201.123.*:8333.
+特征一： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 205.201.123.*:8333 True
+特征一+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 205.201.123.*:8333 False
+耗时：142s
+First phase, we establish 81 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333. Then, we establish 5 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 dropped to 75.
+Second phase, we establish 81 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征一： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 True
+特征一+特征二： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 True
+耗时：372s
+First phase, we establish 80 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333. Then, we establish 40 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 dropped to 80.
+特征一： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：247s
+First phase, we establish 79 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333. Then, we establish 39 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 dropped to 79.
+特征一： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：280s
+First phase, we establish 81 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 dropped to 81.
+特征一： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：250s
+First phase, we establish 81 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 dropped to 81.
+特征一： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：246s
+First phase, we establish 80 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333. Then, we establish 0 connections to address 66.205.103.*:8333, and connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 dropped to 80.
+Second phase, we establish 0 connections to address 66.205.103.*:8333.
+特征一： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 66.205.103.*:8333 True
+特征一+特征二： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 66.205.103.*:8333 False
+耗时：138s
+First phase, we establish 81 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333. Then, we establish 1 connections to address 205.201.123.*:8333, and connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 dropped to 81.
+Second phase, we establish 1 connections to address 205.201.123.*:8333.
+特征一： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 205.201.123.*:8333 True
+特征一+特征二： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 205.201.123.*:8333 False
+耗时：146s
+First phase, we establish 82 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333. Then, we establish 37 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 dropped to 81.
+特征一： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+特征一+特征二： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：246s
+First phase, we establish 80 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333. Then, we establish 37 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 dropped to 71.
+特征一： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+特征一+特征二： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：244s
+First phase, we establish 81 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 dropped to 81.
+特征一： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：219s
+First phase, we establish 81 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 dropped to 81.
+特征一： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：243s
+First phase, we establish 82 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333. Then, we establish 1 connections to address 66.205.103.*:8333, and connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 dropped to 82.
+Second phase, we establish 1 connections to address 66.205.103.*:8333.
+特征一： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 66.205.103.*:8333 True
+特征一+特征二： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 66.205.103.*:8333 False
+耗时：145s
+First phase, we establish 83 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333. Then, we establish 1 connections to address 205.201.123.*:8333, and connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 dropped to 82.
+Second phase, we establish 0 connections to address 205.201.123.*:8333.
+特征一： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 205.201.123.*:8333 True
+特征一+特征二： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 205.201.123.*:8333 False
+耗时：207s
+First phase, we establish 37 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333. Then, we establish 0 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 dropped to 37.
+Second phase, we establish 38 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征一： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 True
+特征一+特征二： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 True
+耗时：369s
+First phase, we establish 38 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 dropped to 38.
+特征一： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：250s
+First phase, we establish 37 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 dropped to 37.
+特征一： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：243s
+First phase, we establish 38 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333. Then, we establish 1 connections to address 66.205.103.*:8333, and connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 dropped to 38.
+Second phase, we establish 1 connections to address 66.205.103.*:8333.
+特征一： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 66.205.103.*:8333 True
+特征一+特征二： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 66.205.103.*:8333 False
+耗时：146s
+First phase, we establish 39 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333. Then, we establish 1 connections to address 205.201.123.*:8333, and connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 dropped to 39.
+Second phase, we establish 1 connections to address 205.201.123.*:8333.
+特征一： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 205.201.123.*:8333 True
+特征一+特征二： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 205.201.123.*:8333 False
+耗时：148s
+First phase, we establish 39 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333. Then, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 dropped to 39.
+特征一： pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+特征一+特征二： pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：311s
+First phase, we establish 38 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 dropped to 38.
+特征一： pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：244s
+First phase, we establish 39 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333. Then, we establish 0 connections to address 66.205.103.*:8333, and connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 dropped to 39.
+Second phase, we establish 1 connections to address 66.205.103.*:8333.
+特征一： pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 66.205.103.*:8333 True
+特征一+特征二： pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 66.205.103.*:8333 False
+耗时：150s
+First phase, we establish 39 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333. Then, we establish 0 connections to address 205.201.123.*:8333, and connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 dropped to 39.
+Second phase, we establish 0 connections to address 205.201.123.*:8333.
+特征一： pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 205.201.123.*:8333 True
+特征一+特征二： pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 205.201.123.*:8333 False
+耗时：141s
+First phase, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333. Then, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and connections to address 3xucqntxp5ddoaz5.onion:8333 dropped to 115.
+特征一： 3xucqntxp5ddoaz5.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+特征一+特征二： 3xucqntxp5ddoaz5.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：260s
+First phase, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333. Then, we establish 0 connections to address 66.205.103.*:8333, and connections to address 3xucqntxp5ddoaz5.onion:8333 dropped to 115.
+Second phase, we establish 1 connections to address 66.205.103.*:8333.
+特征一： 3xucqntxp5ddoaz5.onion:8333 66.205.103.*:8333 True
+特征一+特征二： 3xucqntxp5ddoaz5.onion:8333 66.205.103.*:8333 False
+耗时：159s
+First phase, we establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333. Then, we establish 0 connections to address 205.201.123.*:8333, and connections to address 3xucqntxp5ddoaz5.onion:8333 dropped to 115.
+Second phase, we establish 0 connections to address 205.201.123.*:8333.
+特征一： 3xucqntxp5ddoaz5.onion:8333 205.201.123.*:8333 True
+特征一+特征二： 3xucqntxp5ddoaz5.onion:8333 205.201.123.*:8333 False
+耗时：139s
+First phase, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333. Then, we establish 0 connections to address 66.205.103.*:8333, and connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 dropped to 115.
+Second phase, we establish 0 connections to address 66.205.103.*:8333.
+特征一： o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 66.205.103.*:8333 True
+特征一+特征二： o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 66.205.103.*:8333 False
+耗时：159s
+First phase, we establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333. Then, we establish 0 connections to address 205.201.123.*:8333, and connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 dropped to 115.
+Second phase, we establish 0 connections to address 205.201.123.*:8333.
+特征一： o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 205.201.123.*:8333 True
+特征一+特征二： o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 205.201.123.*:8333 False
+耗时：139s
+First phase, we establish 0 connections to address 66.205.103.*:8333. Then, we establish 0 connections to address 205.201.123.*:8333, and connections to address 66.205.103.*:8333 dropped to 0.
+Second phase, we establish 0 connections to address 205.201.123.*:8333.
+特征一： 66.205.103.*:8333 205.201.123.*:8333 True
+特征一+特征二： 66.205.103.*:8333 205.201.123.*:8333 True
+耗时：55s
+In ablation experiment, we can establish 48 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 46 connections to address [2402:4e00:1202:fe00:*]:8333.
+特征二： 49.233.16.*:8333 [2402:4e00:1202:fe00:*]:8333 True
+耗时：44s
+In ablation experiment, we can establish 45 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 66 connections to address 101.43.219.*:8333.
+特征二： 49.233.16.*:8333 101.43.219.*:8333 False
+耗时：44s
+In ablation experiment, we can establish 49 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 65 connections to address 101.43.219.*:8334.
+特征二： 49.233.16.*:8333 101.43.219.*:8334 False
+耗时：52s
+In ablation experiment, we can establish 49 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 69 connections to address 101.33.80.*:8333.
+特征二： 49.233.16.*:8333 101.33.80.*:8333 False
+耗时：43s
+In ablation experiment, we can establish 49 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 67 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333.
+特征二： 49.233.16.*:8333 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 False
+耗时：151s
+In ablation experiment, we can establish 47 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 34 connections to address 43.132.198.*:8333.
+特征二： 49.233.16.*:8333 43.132.198.*:8333 False
+耗时：44s
+In ablation experiment, we can establish 46 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 37 connections to address [240d:c000:2020:f00:*]:8333.
+特征二： 49.233.16.*:8333 [240d:c000:2020:f00:*]:8333 True
+耗时：54s
+In ablation experiment, we can establish 47 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 31 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333.
+特征二： 49.233.16.*:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+耗时：161s
+In ablation experiment, we can establish 46 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333.
+特征二： 49.233.16.*:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：214s
+In ablation experiment, we can establish 42 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333.
+特征二： 49.233.16.*:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：162s
+In ablation experiment, we can establish 40 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 6 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征二： 49.233.16.*:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：159s
+In ablation experiment, we can establish 37 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征二： 49.233.16.*:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：151s
+In ablation experiment, we can establish 40 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 81 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333.
+特征二： 49.233.16.*:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：148s
+In ablation experiment, we can establish 40 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 82 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征二： 49.233.16.*:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：160s
+In ablation experiment, we can establish 41 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 41 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： 49.233.16.*:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 True
+耗时：138s
+In ablation experiment, we can establish 41 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 41 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： 49.233.16.*:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 True
+耗时：159s
+In ablation experiment, we can establish 40 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： 49.233.16.*:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：162s
+In ablation experiment, we can establish 39 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： 49.233.16.*:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：209s
+In ablation experiment, we can establish 41 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 0 connections to address 66.205.103.*:8333.
+特征二： 49.233.16.*:8333 66.205.103.*:8333 False
+耗时：36s
+In ablation experiment, we can establish 37 connections to address 49.233.16.*:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： 49.233.16.*:8333 205.201.123.*:8333 False
+耗时：37s
+In ablation experiment, we can establish 41 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 65 connections to address 101.43.219.*:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 101.43.219.*:8333 False
+耗时：43s
+In ablation experiment, we can establish 36 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 63 connections to address 101.43.219.*:8334.
+特征二： [2402:4e00:1202:fe00:*]:8333 101.43.219.*:8334 False
+耗时：43s
+In ablation experiment, we can establish 39 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 64 connections to address 101.33.80.*:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 101.33.80.*:8333 False
+耗时：43s
+In ablation experiment, we can establish 39 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 63 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 False
+耗时：155s
+In ablation experiment, we can establish 35 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 34 connections to address 43.132.198.*:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 43.132.198.*:8333 True
+耗时：53s
+In ablation experiment, we can establish 39 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 36 connections to address [240d:c000:2020:f00:*]:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 [240d:c000:2020:f00:*]:8333 True
+耗时：43s
+In ablation experiment, we can establish 39 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 33 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 True
+耗时：151s
+In ablation experiment, we can establish 38 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：168s
+In ablation experiment, we can establish 33 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：159s
+In ablation experiment, we can establish 37 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：147s
+In ablation experiment, we can establish 37 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：157s
+In ablation experiment, we can establish 38 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 79 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：150s
+In ablation experiment, we can establish 39 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 81 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：210s
+In ablation experiment, we can establish 42 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 39 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 True
+耗时：147s
+In ablation experiment, we can establish 39 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 41 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 True
+耗时：148s
+In ablation experiment, we can establish 39 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：165s
+In ablation experiment, we can establish 45 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：164s
+In ablation experiment, we can establish 41 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 1 connections to address 66.205.103.*:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 66.205.103.*:8333 False
+耗时：44s
+In ablation experiment, we can establish 41 connections to address [2402:4e00:1202:fe00:*]:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： [2402:4e00:1202:fe00:*]:8333 205.201.123.*:8333 False
+耗时：47s
+In ablation experiment, we can establish 74 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 71 connections to address 101.43.219.*:8334.
+特征二： 101.43.219.*:8333 101.43.219.*:8334 True
+耗时：64s
+In ablation experiment, we can establish 71 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 68 connections to address 101.33.80.*:8333.
+特征二： 101.43.219.*:8333 101.33.80.*:8333 True
+耗时：44s
+In ablation experiment, we can establish 74 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 65 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333.
+特征二： 101.43.219.*:8333 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 True
+耗时：150s
+In ablation experiment, we can establish 71 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 35 connections to address 43.132.198.*:8333.
+特征二： 101.43.219.*:8333 43.132.198.*:8333 False
+耗时：49s
+In ablation experiment, we can establish 70 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 34 connections to address [240d:c000:2020:f00:*]:8333.
+特征二： 101.43.219.*:8333 [240d:c000:2020:f00:*]:8333 False
+耗时：51s
+In ablation experiment, we can establish 73 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 33 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333.
+特征二： 101.43.219.*:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+耗时：152s
+In ablation experiment, we can establish 72 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333.
+特征二： 101.43.219.*:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：157s
+In ablation experiment, we can establish 73 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 111 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333.
+特征二： 101.43.219.*:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：214s
+In ablation experiment, we can establish 73 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 6 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征二： 101.43.219.*:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：115s
+In ablation experiment, we can establish 70 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征二： 101.43.219.*:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：154s
+In ablation experiment, we can establish 72 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 75 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333.
+特征二： 101.43.219.*:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 True
+耗时：151s
+In ablation experiment, we can establish 69 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 76 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征二： 101.43.219.*:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 True
+耗时：114s
+In ablation experiment, we can establish 70 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 40 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： 101.43.219.*:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：148s
+In ablation experiment, we can establish 71 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 40 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： 101.43.219.*:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：147s
+In ablation experiment, we can establish 71 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： 101.43.219.*:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：146s
+In ablation experiment, we can establish 69 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： 101.43.219.*:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：157s
+In ablation experiment, we can establish 65 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 2 connections to address 66.205.103.*:8333.
+特征二： 101.43.219.*:8333 66.205.103.*:8333 False
+耗时：45s
+In ablation experiment, we can establish 68 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： 101.43.219.*:8333 205.201.123.*:8333 False
+耗时：48s
+In ablation experiment, we can establish 69 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 67 connections to address 101.33.80.*:8333.
+特征二： 101.43.219.*:8334 101.33.80.*:8333 True
+耗时：44s
+In ablation experiment, we can establish 70 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 68 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333.
+特征二： 101.43.219.*:8334 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 True
+耗时：151s
+In ablation experiment, we can establish 65 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 31 connections to address 43.132.198.*:8333.
+特征二： 101.43.219.*:8334 43.132.198.*:8333 False
+耗时：43s
+In ablation experiment, we can establish 67 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 27 connections to address [240d:c000:2020:f00:*]:8333.
+特征二： 101.43.219.*:8334 [240d:c000:2020:f00:*]:8333 False
+耗时：43s
+In ablation experiment, we can establish 66 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 28 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333.
+特征二： 101.43.219.*:8334 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+耗时：153s
+In ablation experiment, we can establish 65 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 109 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333.
+特征二： 101.43.219.*:8334 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：223s
+In ablation experiment, we can establish 65 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333.
+特征二： 101.43.219.*:8334 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：166s
+In ablation experiment, we can establish 60 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 7 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征二： 101.43.219.*:8334 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：163s
+In ablation experiment, we can establish 67 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 7 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征二： 101.43.219.*:8334 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：147s
+In ablation experiment, we can establish 66 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 77 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333.
+特征二： 101.43.219.*:8334 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 True
+耗时：132s
+In ablation experiment, we can establish 66 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 79 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征二： 101.43.219.*:8334 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 True
+耗时：158s
+In ablation experiment, we can establish 68 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 39 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： 101.43.219.*:8334 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：147s
+In ablation experiment, we can establish 62 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 39 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： 101.43.219.*:8334 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：159s
+In ablation experiment, we can establish 65 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： 101.43.219.*:8334 3xucqntxp5ddoaz5.onion:8333 False
+耗时：159s
+In ablation experiment, we can establish 65 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： 101.43.219.*:8334 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：154s
+In ablation experiment, we can establish 68 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 1 connections to address 66.205.103.*:8333.
+特征二： 101.43.219.*:8334 66.205.103.*:8333 False
+耗时：44s
+In ablation experiment, we can establish 67 connections to address 101.43.219.*:8334, and after releasing these connections, we can establish 1 connections to address 205.201.123.*:8333.
+特征二： 101.43.219.*:8334 205.201.123.*:8333 False
+耗时：44s
+In ablation experiment, we can establish 68 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 64 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333.
+特征二： 101.33.80.*:8333 dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 True
+耗时：157s
+In ablation experiment, we can establish 54 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 37 connections to address 43.132.198.*:8333.
+特征二： 101.33.80.*:8333 43.132.198.*:8333 False
+耗时：47s
+In ablation experiment, we can establish 65 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 36 connections to address [240d:c000:2020:f00:*]:8333.
+特征二： 101.33.80.*:8333 [240d:c000:2020:f00:*]:8333 False
+耗时：53s
+In ablation experiment, we can establish 65 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 31 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333.
+特征二： 101.33.80.*:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+耗时：149s
+In ablation experiment, we can establish 68 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333.
+特征二： 101.33.80.*:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：167s
+In ablation experiment, we can establish 69 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 107 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333.
+特征二： 101.33.80.*:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：173s
+In ablation experiment, we can establish 69 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 7 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征二： 101.33.80.*:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：146s
+In ablation experiment, we can establish 69 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 8 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征二： 101.33.80.*:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：146s
+In ablation experiment, we can establish 69 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 79 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333.
+特征二： 101.33.80.*:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 True
+耗时：155s
+In ablation experiment, we can establish 70 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 80 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征二： 101.33.80.*:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 True
+耗时：171s
+In ablation experiment, we can establish 68 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 38 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： 101.33.80.*:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：161s
+In ablation experiment, we can establish 67 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 40 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： 101.33.80.*:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：161s
+In ablation experiment, we can establish 68 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： 101.33.80.*:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：155s
+In ablation experiment, we can establish 67 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： 101.33.80.*:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：191s
+In ablation experiment, we can establish 66 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 0 connections to address 66.205.103.*:8333.
+特征二： 101.33.80.*:8333 66.205.103.*:8333 False
+耗时：46s
+In ablation experiment, we can establish 67 connections to address 101.33.80.*:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： 101.33.80.*:8333 205.201.123.*:8333 False
+耗时：37s
+In ablation experiment, we can establish 64 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 28 connections to address 43.132.198.*:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 43.132.198.*:8333 False
+耗时：152s
+In ablation experiment, we can establish 66 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 29 connections to address [240d:c000:2020:f00:*]:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 [240d:c000:2020:f00:*]:8333 False
+耗时：146s
+In ablation experiment, we can establish 64 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 28 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+耗时：257s
+In ablation experiment, we can establish 64 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 110 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：266s
+In ablation experiment, we can establish 64 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：263s
+In ablation experiment, we can establish 63 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：248s
+In ablation experiment, we can establish 64 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 5 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：251s
+In ablation experiment, we can establish 63 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 79 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：266s
+In ablation experiment, we can establish 64 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 0 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：326s
+In ablation experiment, we can establish 65 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 0 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：246s
+In ablation experiment, we can establish 9 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 0 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：277s
+In ablation experiment, we can establish 37 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 0 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：305s
+In ablation experiment, we can establish 68 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 0 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：280s
+In ablation experiment, we can establish 65 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 0 connections to address 66.205.103.*:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 66.205.103.*:8333 False
+耗时：167s
+In ablation experiment, we can establish 64 connections to address dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333, and after releasing these connections, we can establish 1 connections to address 205.201.123.*:8333.
+特征二： dzm52lslwpm3qbjxmbftc4dbvk4in2eihbtoife6ybshxnzym2zwe2yd.onion:8333 205.201.123.*:8333 False
+耗时：146s
+In ablation experiment, we can establish 37 connections to address 43.132.198.*:8333, and after releasing these connections, we can establish 37 connections to address [240d:c000:2020:f00:*]:8333.
+特征二： 43.132.198.*:8333 [240d:c000:2020:f00:*]:8333 True
+耗时：43s
+In ablation experiment, we can establish 34 connections to address 43.132.198.*:8333, and after releasing these connections, we can establish 0 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333.
+特征二： 43.132.198.*:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 False
+耗时：142s
+In ablation experiment, we can establish 39 connections to address 43.132.198.*:8333, and after releasing these connections, we can establish 0 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333.
+特征二： 43.132.198.*:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：151s
+In ablation experiment, we can establish 40 connections to address 43.132.198.*:8333, and after releasing these connections, we can establish 14 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333.
+特征二： 43.132.198.*:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：185s
+In ablation experiment, we can establish 37 connections to address 43.132.198.*:8333, and after releasing these connections, we can establish 0 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征二： 43.132.198.*:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：142s
+In ablation experiment, we can establish 36 connections to address 43.132.198.*:8333, and after releasing these connections, we can establish 0 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征二： 43.132.198.*:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：154s
+In ablation experiment, we can establish 41 connections to address 43.132.198.*:8333, and after releasing these connections, we can establish 25 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333.
+特征二： 43.132.198.*:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：219s
+In ablation experiment, we can establish 40 connections to address 43.132.198.*:8333, and after releasing these connections, we can establish 0 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征二： 43.132.198.*:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：142s
+In ablation experiment, we can establish 41 connections to address 43.132.198.*:8333, and after releasing these connections, we can establish 0 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： 43.132.198.*:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：141s
+In ablation experiment, we can establish 40 connections to address 43.132.198.*:8333, and after releasing these connections, we can establish 0 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： 43.132.198.*:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：142s
+In ablation experiment, we can establish 40 connections to address 43.132.198.*:8333, and after releasing these connections, we can establish 0 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： 43.132.198.*:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：141s
+In ablation experiment, we can establish 41 connections to address 43.132.198.*:8333, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： 43.132.198.*:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：169s
+In ablation experiment, we can establish 39 connections to address 43.132.198.*:8333, and after releasing these connections, we can establish 1 connections to address 66.205.103.*:8333.
+特征二： 43.132.198.*:8333 66.205.103.*:8333 False
+耗时：44s
+In ablation experiment, we can establish 39 connections to address 43.132.198.*:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： 43.132.198.*:8333 205.201.123.*:8333 False
+耗时：36s
+In ablation experiment, we can establish 37 connections to address [240d:c000:2020:f00:*]:8333, and after releasing these connections, we can establish 34 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333.
+特征二： [240d:c000:2020:f00:*]:8333 qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 True
+耗时：164s
+In ablation experiment, we can establish 29 connections to address [240d:c000:2020:f00:*]:8333, and after releasing these connections, we can establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333.
+特征二： [240d:c000:2020:f00:*]:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：166s
+In ablation experiment, we can establish 35 connections to address [240d:c000:2020:f00:*]:8333, and after releasing these connections, we can establish 84 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333.
+特征二： [240d:c000:2020:f00:*]:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：231s
+In ablation experiment, we can establish 34 connections to address [240d:c000:2020:f00:*]:8333, and after releasing these connections, we can establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征二： [240d:c000:2020:f00:*]:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：148s
+In ablation experiment, we can establish 35 connections to address [240d:c000:2020:f00:*]:8333, and after releasing these connections, we can establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征二： [240d:c000:2020:f00:*]:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：157s
+In ablation experiment, we can establish 36 connections to address [240d:c000:2020:f00:*]:8333, and after releasing these connections, we can establish 81 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333.
+特征二： [240d:c000:2020:f00:*]:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：177s
+In ablation experiment, we can establish 34 connections to address [240d:c000:2020:f00:*]:8333, and after releasing these connections, we can establish 13 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征二： [240d:c000:2020:f00:*]:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：147s
+In ablation experiment, we can establish 33 connections to address [240d:c000:2020:f00:*]:8333, and after releasing these connections, we can establish 36 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： [240d:c000:2020:f00:*]:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 True
+耗时：222s
+In ablation experiment, we can establish 32 connections to address [240d:c000:2020:f00:*]:8333, and after releasing these connections, we can establish 36 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： [240d:c000:2020:f00:*]:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 True
+耗时：146s
+In ablation experiment, we can establish 32 connections to address [240d:c000:2020:f00:*]:8333, and after releasing these connections, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： [240d:c000:2020:f00:*]:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：153s
+In ablation experiment, we can establish 28 connections to address [240d:c000:2020:f00:*]:8333, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： [240d:c000:2020:f00:*]:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：184s
+In ablation experiment, we can establish 29 connections to address [240d:c000:2020:f00:*]:8333, and after releasing these connections, we can establish 1 connections to address 66.205.103.*:8333.
+特征二： [240d:c000:2020:f00:*]:8333 66.205.103.*:8333 False
+耗时：43s
+In ablation experiment, we can establish 32 connections to address [240d:c000:2020:f00:*]:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： [240d:c000:2020:f00:*]:8333 205.201.123.*:8333 False
+耗时：36s
+In ablation experiment, we can establish 5 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and after releasing these connections, we can establish 8 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333.
+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 False
+耗时：307s
+In ablation experiment, we can establish 33 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and after releasing these connections, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333.
+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 False
+耗时：269s
+In ablation experiment, we can establish 34 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and after releasing these connections, we can establish 7 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：316s
+In ablation experiment, we can establish 35 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and after releasing these connections, we can establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：258s
+In ablation experiment, we can establish 39 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and after releasing these connections, we can establish 83 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333.
+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：279s
+In ablation experiment, we can establish 36 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and after releasing these connections, we can establish 83 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：256s
+In ablation experiment, we can establish 41 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and after releasing these connections, we can establish 31 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：316s
+In ablation experiment, we can establish 43 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and after releasing these connections, we can establish 33 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：253s
+In ablation experiment, we can establish 43 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and after releasing these connections, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：261s
+In ablation experiment, we can establish 38 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：261s
+In ablation experiment, we can establish 40 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and after releasing these connections, we can establish 0 connections to address 66.205.103.*:8333.
+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 66.205.103.*:8333 False
+耗时：143s
+In ablation experiment, we can establish 40 connections to address qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： qjrtbxjs3f5f2bw54yz4wvhvk2zlfodad5frifrnlltdzfistu2v5pqd.onion:8333 205.201.123.*:8333 False
+耗时：140s
+In ablation experiment, we can establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and after releasing these connections, we can establish 110 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333.
+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 True
+耗时：277s
+In ablation experiment, we can establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and after releasing these connections, we can establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：249s
+In ablation experiment, we can establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and after releasing these connections, we can establish 6 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：284s
+In ablation experiment, we can establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and after releasing these connections, we can establish 83 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333.
+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：261s
+In ablation experiment, we can establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and after releasing these connections, we can establish 82 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：315s
+In ablation experiment, we can establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and after releasing these connections, we can establish 31 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：251s
+In ablation experiment, we can establish 114 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and after releasing these connections, we can establish 31 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：258s
+In ablation experiment, we can establish 111 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and after releasing these connections, we can establish 105 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 3xucqntxp5ddoaz5.onion:8333 True
+耗时：224s
+In ablation experiment, we can establish 110 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and after releasing these connections, we can establish 104 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 True
+耗时：274s
+In ablation experiment, we can establish 103 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and after releasing these connections, we can establish 0 connections to address 66.205.103.*:8333.
+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 66.205.103.*:8333 False
+耗时：146s
+In ablation experiment, we can establish 110 connections to address iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： iybou5eoyg45ufbyrnrlif3ektrxej3b2v4v5wcyq6d7bugk3wj7smid.onion:8333 205.201.123.*:8333 False
+耗时：160s
+In ablation experiment, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and after releasing these connections, we can establish 5 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333.
+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 False
+耗时：314s
+In ablation experiment, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and after releasing these connections, we can establish 5 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 False
+耗时：256s
+In ablation experiment, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and after releasing these connections, we can establish 81 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333.
+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：275s
+In ablation experiment, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and after releasing these connections, we can establish 81 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：282s
+In ablation experiment, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and after releasing these connections, we can establish 33 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：251s
+In ablation experiment, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and after releasing these connections, we can establish 34 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：251s
+In ablation experiment, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and after releasing these connections, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 3xucqntxp5ddoaz5.onion:8333 True
+耗时：261s
+In ablation experiment, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 True
+耗时：323s
+In ablation experiment, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and after releasing these connections, we can establish 0 connections to address 66.205.103.*:8333.
+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 66.205.103.*:8333 False
+耗时：141s
+In ablation experiment, we can establish 114 connections to address iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： iv2zljzmqji7tytsksuprwj7ojp6uv67oq5uv6rymlcqjihpmz5xkmid.onion:8333 205.201.123.*:8333 False
+耗时：145s
+In ablation experiment, we can establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and after releasing these connections, we can establish 4 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333.
+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 True
+耗时：248s
+In ablation experiment, we can establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and after releasing these connections, we can establish 80 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333.
+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：281s
+In ablation experiment, we can establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and after releasing these connections, we can establish 79 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：248s
+In ablation experiment, we can establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and after releasing these connections, we can establish 32 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：250s
+In ablation experiment, we can establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and after releasing these connections, we can establish 32 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：249s
+In ablation experiment, we can establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and after releasing these connections, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：257s
+In ablation experiment, we can establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and after releasing these connections, we can establish 111 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：227s
+In ablation experiment, we can establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and after releasing these connections, we can establish 0 connections to address 66.205.103.*:8333.
+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 66.205.103.*:8333 False
+耗时：118s
+In ablation experiment, we can establish 4 connections to address astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333, and after releasing these connections, we can establish 1 connections to address 205.201.123.*:8333.
+特征二： astsrlifm7bvjxsi4yampqfrlnf76efexa55l56rx4kzofewugbq26ad.onion:8333 205.201.123.*:8333 False
+耗时：145s
+In ablation experiment, we can establish 4 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and after releasing these connections, we can establish 80 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333.
+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 False
+耗时：251s
+In ablation experiment, we can establish 4 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and after releasing these connections, we can establish 82 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 False
+耗时：248s
+In ablation experiment, we can establish 4 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and after releasing these connections, we can establish 26 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：248s
+In ablation experiment, we can establish 4 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and after releasing these connections, we can establish 27 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：251s
+In ablation experiment, we can establish 3 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and after releasing these connections, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：254s
+In ablation experiment, we can establish 4 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：249s
+In ablation experiment, we can establish 4 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and after releasing these connections, we can establish 0 connections to address 66.205.103.*:8333.
+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 66.205.103.*:8333 False
+耗时：140s
+In ablation experiment, we can establish 4 connections to address keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： keetg3aczdiegooddj7d6owxevdyd2vsgn2g7p6p6dvhabitdb3linid.onion:8333 205.201.123.*:8333 False
+耗时：137s
+In ablation experiment, we can establish 80 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and after releasing these connections, we can establish 79 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333.
+特征二： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 True
+耗时：254s
+In ablation experiment, we can establish 80 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and after releasing these connections, we can establish 29 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：249s
+In ablation experiment, we can establish 80 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and after releasing these connections, we can establish 29 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：248s
+In ablation experiment, we can establish 80 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and after releasing these connections, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：284s
+In ablation experiment, we can establish 81 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：263s
+In ablation experiment, we can establish 81 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and after releasing these connections, we can establish 0 connections to address 66.205.103.*:8333.
+特征二： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 66.205.103.*:8333 False
+耗时：189s
+In ablation experiment, we can establish 80 connections to address pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： pbtnuos6vsy4hqwq4ljyfvrtnbrayy62frlgooyv46sqafnu2sczugid.onion:8333 205.201.123.*:8333 False
+耗时：155s
+In ablation experiment, we can establish 81 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and after releasing these connections, we can establish 27 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333.
+特征二： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 False
+耗时：313s
+In ablation experiment, we can establish 80 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and after releasing these connections, we can establish 25 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 False
+耗时：248s
+In ablation experiment, we can establish 80 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and after releasing these connections, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：264s
+In ablation experiment, we can establish 79 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：281s
+In ablation experiment, we can establish 75 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and after releasing these connections, we can establish 1 connections to address 66.205.103.*:8333.
+特征二： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 66.205.103.*:8333 False
+耗时：145s
+In ablation experiment, we can establish 79 connections to address gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： gjf6rkeopgbqmttguev2wb2yupv7t5eyfwtzdamncja34c5yhxrztpid.onion:8333 205.201.123.*:8333 False
+耗时：138s
+In ablation experiment, we can establish 24 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and after releasing these connections, we can establish 23 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333.
+特征二： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 True
+耗时：249s
+In ablation experiment, we can establish 24 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and after releasing these connections, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：253s
+In ablation experiment, we can establish 24 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：258s
+In ablation experiment, we can establish 25 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and after releasing these connections, we can establish 0 connections to address 66.205.103.*:8333.
+特征二： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 66.205.103.*:8333 False
+耗时：140s
+In ablation experiment, we can establish 24 connections to address az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333, and after releasing these connections, we can establish 1 connections to address 205.201.123.*:8333.
+特征二： az6tz7n36wym4w46no4fxc5rmnnmirjqlamtuck5fqxiezyicmcarsqd.onion:8333 205.201.123.*:8333 False
+耗时：145s
+In ablation experiment, we can establish 25 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and after releasing these connections, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333.
+特征二： pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 3xucqntxp5ddoaz5.onion:8333 False
+耗时：293s
+In ablation experiment, we can establish 25 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 False
+耗时：239s
+In ablation experiment, we can establish 25 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and after releasing these connections, we can establish 0 connections to address 66.205.103.*:8333.
+特征二： pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 66.205.103.*:8333 False
+耗时：137s
+In ablation experiment, we can establish 26 connections to address pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： pzyzko2ipo5j6gyz46lftdojsqb7e7bgzlwcvmyksluyssiujole6kad.onion:8333 205.201.123.*:8333 False
+耗时：140s
+In ablation experiment, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and after releasing these connections, we can establish 115 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333.
+特征二： 3xucqntxp5ddoaz5.onion:8333 o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 True
+耗时：283s
+In ablation experiment, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and after releasing these connections, we can establish 0 connections to address 66.205.103.*:8333.
+特征二： 3xucqntxp5ddoaz5.onion:8333 66.205.103.*:8333 False
+耗时：144s
+In ablation experiment, we can establish 115 connections to address 3xucqntxp5ddoaz5.onion:8333, and after releasing these connections, we can establish 1 connections to address 205.201.123.*:8333.
+特征二： 3xucqntxp5ddoaz5.onion:8333 205.201.123.*:8333 False
+耗时：221s
+In ablation experiment, we can establish 107 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and after releasing these connections, we can establish 0 connections to address 66.205.103.*:8333.
+特征二： o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 66.205.103.*:8333 False
+耗时：146s
+In ablation experiment, we can establish 105 connections to address o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： o4tyjzd353yvvmpxpc73rdiagcfxocl3kknz3xqq7ugjarxfny73dvyd.onion:8333 205.201.123.*:8333 False
+耗时：138s
+In ablation experiment, we can establish 0 connections to address 66.205.103.*:8333, and after releasing these connections, we can establish 0 connections to address 205.201.123.*:8333.
+特征二： 66.205.103.*:8333 205.201.123.*:8333 True
+耗时：30s

@@ -1,0 +1,9 @@
+-------------- this is a line -------------
+First phase, we establish 74 connections to address 101.43.219.*:8333. Then, we establish 0 connections to address 101.43.219.*:8334, and connections to address 101.43.219.*:8333 dropped to 73.
+Second phase, we establish 73 connections to address 101.43.219.*:8334.
+特征一： 101.43.219.*:8333 101.43.219.*:8334 True
+特征一+特征二： 101.43.219.*:8333 101.43.219.*:8334 True
+耗时：81s
+In ablation experiment, we can establish 74 connections to address 101.43.219.*:8333, and after releasing these connections, we can establish 71 connections to address 101.43.219.*:8334.
+特征二： 101.43.219.*:8333 101.43.219.*:8334 True
+耗时：43s
